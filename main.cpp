@@ -2,11 +2,9 @@
 using namespace std;
 
 int main() {
-    int n, n1, n2, n3;
-    cin >> n;
-    n1 = n / 100;
-    n2 = n / 10 - (n1 * 10);
-    n3 = n - ((n2 * 10) + (n1 * 100));
-    cout << n1 + n2 + n3;
+    int h, a, b, c;
+    cin >> h >> a >> b;
+    c = a - b;
+    cout << (h - a + c -1) / c + 1;
     return 0;
 }
