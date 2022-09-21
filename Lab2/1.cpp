@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int task1() {
+int task2_1() {
     int a, b;
     return 0;
 }

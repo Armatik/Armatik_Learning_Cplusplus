@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int task7() {
+int task2_7() {
     int counter;
     counter=counter-2;
     cout << counter;
