@@ -251,6 +251,34 @@ CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day4.cpp" -o CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.s
 
+CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o: CMakeFiles/Armatik_Learning_C__.dir/flags.make
+CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o: ../Lab3/dz3.cpp
+CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o: CMakeFiles/Armatik_Learning_C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o -MF CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o.d -o CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o -c "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/dz3.cpp"
+
+CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/dz3.cpp" > CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.i
+
+CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/dz3.cpp" -o CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.s
+
+CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o: CMakeFiles/Armatik_Learning_C__.dir/flags.make
+CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o: ../Lab4/1.cpp
+CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o: CMakeFiles/Armatik_Learning_C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o -MF CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o.d -o CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o -c "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/1.cpp"
+
+CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/1.cpp" > CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.i
+
+CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/1.cpp" -o CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.s
+
 # Object files for target Armatik_Learning_C__
 Armatik_Learning_C___OBJECTS = \
 "CMakeFiles/Armatik_Learning_C__.dir/main.cpp.o" \
@@ -265,7 +293,9 @@ Armatik_Learning_C___OBJECTS = \
 "CMakeFiles/Armatik_Learning_C__.dir/Lab3/2.cpp.o" \
 "CMakeFiles/Armatik_Learning_C__.dir/Lab3/1.cpp.o" \
 "CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.o" \
-"CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o"
+"CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o" \
+"CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o" \
+"CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o"
 
 # External object files for target Armatik_Learning_C__
 Armatik_Learning_C___EXTERNAL_OBJECTS =
@@ -283,9 +313,11 @@ Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/Lab3/2.cpp.o
 Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/Lab3/1.cpp.o
 Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.o
 Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o
+Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o
+Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o
 Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/build.make
 Armatik_Learning_C__: CMakeFiles/Armatik_Learning_C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable Armatik_Learning_C__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable Armatik_Learning_C__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Armatik_Learning_C__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

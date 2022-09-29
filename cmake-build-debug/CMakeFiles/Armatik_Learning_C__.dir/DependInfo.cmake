@@ -20,6 +20,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/1.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/1.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/1.cpp.o.d"
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/2.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/2.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/2.cpp.o.d"
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/3.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.o.d"
+  "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/dz3.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o.d"
+  "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/1.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o.d"
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/main.cpp" "CMakeFiles/Armatik_Learning_C__.dir/main.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/main.cpp.o.d"
   )
 

@@ -417,6 +417,54 @@ Lab3/3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.s
 .PHONY : Lab3/3.cpp.s
 
+Lab3/dz3.o: Lab3/dz3.cpp.o
+.PHONY : Lab3/dz3.o
+
+# target to build an object file
+Lab3/dz3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o
+.PHONY : Lab3/dz3.cpp.o
+
+Lab3/dz3.i: Lab3/dz3.cpp.i
+.PHONY : Lab3/dz3.i
+
+# target to preprocess a source file
+Lab3/dz3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.i
+.PHONY : Lab3/dz3.cpp.i
+
+Lab3/dz3.s: Lab3/dz3.cpp.s
+.PHONY : Lab3/dz3.s
+
+# target to generate assembly for a file
+Lab3/dz3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.s
+.PHONY : Lab3/dz3.cpp.s
+
+Lab4/1.o: Lab4/1.cpp.o
+.PHONY : Lab4/1.o
+
+# target to build an object file
+Lab4/1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o
+.PHONY : Lab4/1.cpp.o
+
+Lab4/1.i: Lab4/1.cpp.i
+.PHONY : Lab4/1.i
+
+# target to preprocess a source file
+Lab4/1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.i
+.PHONY : Lab4/1.cpp.i
+
+Lab4/1.s: Lab4/1.cpp.s
+.PHONY : Lab4/1.s
+
+# target to generate assembly for a file
+Lab4/1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.s
+.PHONY : Lab4/1.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -486,6 +534,12 @@ help:
 	@echo "... Lab3/3.o"
 	@echo "... Lab3/3.i"
 	@echo "... Lab3/3.s"
+	@echo "... Lab3/dz3.o"
+	@echo "... Lab3/dz3.i"
+	@echo "... Lab3/dz3.s"
+	@echo "... Lab4/1.o"
+	@echo "... Lab4/1.i"
+	@echo "... Lab4/1.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

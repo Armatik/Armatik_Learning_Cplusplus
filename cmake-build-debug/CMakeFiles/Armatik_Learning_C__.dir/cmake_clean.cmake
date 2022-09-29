@@ -25,6 +25,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/Armatik_Learning_C__.dir/Lab3/2.cpp.o.d"
   "CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.o"
   "CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.o.d"
+  "CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o"
+  "CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.o.d"
+  "CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o"
+  "CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.o.d"
   "CMakeFiles/Armatik_Learning_C__.dir/main.cpp.o"
   "CMakeFiles/Armatik_Learning_C__.dir/main.cpp.o.d"
 )
