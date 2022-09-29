@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "Armatik_Learning_C__.pdb"
   "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day3.cpp.o"
   "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day3.cpp.o.d"
+  "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o"
+  "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o.d"
   "CMakeFiles/Armatik_Learning_C__.dir/Lab2/10.cpp.o"
   "CMakeFiles/Armatik_Learning_C__.dir/Lab2/10.cpp.o.d"
   "CMakeFiles/Armatik_Learning_C__.dir/Lab2/11.cpp.o"

@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day3.cpp" "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day3.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day3.cpp.o.d"
+  "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day4.cpp" "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o.d"
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/10.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab2/10.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab2/10.cpp.o.d"
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/11.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab2/11.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab2/11.cpp.o.d"
   "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/12.cpp" "CMakeFiles/Armatik_Learning_C__.dir/Lab2/12.cpp.o" "gcc" "CMakeFiles/Armatik_Learning_C__.dir/Lab2/12.cpp.o.d"

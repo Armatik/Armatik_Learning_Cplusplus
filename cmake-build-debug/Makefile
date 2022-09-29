@@ -153,6 +153,30 @@ ClassWork/Day3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day3.cpp.s
 .PHONY : ClassWork/Day3.cpp.s
 
+ClassWork/Day4.o: ClassWork/Day4.cpp.o
+.PHONY : ClassWork/Day4.o
+
+# target to build an object file
+ClassWork/Day4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.o
+.PHONY : ClassWork/Day4.cpp.o
+
+ClassWork/Day4.i: ClassWork/Day4.cpp.i
+.PHONY : ClassWork/Day4.i
+
+# target to preprocess a source file
+ClassWork/Day4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.i
+.PHONY : ClassWork/Day4.cpp.i
+
+ClassWork/Day4.s: ClassWork/Day4.cpp.s
+.PHONY : ClassWork/Day4.s
+
+# target to generate assembly for a file
+ClassWork/Day4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.s
+.PHONY : ClassWork/Day4.cpp.s
+
 Lab2/10.o: Lab2/10.cpp.o
 .PHONY : Lab2/10.o
 
@@ -429,6 +453,9 @@ help:
 	@echo "... ClassWork/Day3.o"
 	@echo "... ClassWork/Day3.i"
 	@echo "... ClassWork/Day3.s"
+	@echo "... ClassWork/Day4.o"
+	@echo "... ClassWork/Day4.i"
+	@echo "... ClassWork/Day4.s"
 	@echo "... Lab2/10.o"
 	@echo "... Lab2/10.i"
 	@echo "... Lab2/10.s"
