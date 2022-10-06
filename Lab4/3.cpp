@@ -19,7 +19,6 @@ int Lab4_3() {
             cout << "#";
         }
         cout << "\n";
-
     }
     for(int c = h; c >= 0; c--){
         for(int c1 = c;c1 > 0;c1--){

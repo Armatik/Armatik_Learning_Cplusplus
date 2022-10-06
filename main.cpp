@@ -1,7 +1,7 @@
 #include <iostream>
 //#include "Lab2/16.cpp"
 using namespace std;
-int main() {
+int maun() {
     int a, b;
     string c;
     cout << "Введите номер программы: 1 - Строка, 2 - Квадрат, 3 - Прямоугольный треугольник, 4 - Равноберенный треугольник:" << "\n";
