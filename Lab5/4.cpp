@@ -1,7 +1,7 @@
 #include <iostream>
 //#include "Lab2/16.cpp"
 using namespace std;
-int main()  {
+int Lab5_4()  {
     int a[5];
     cout << "Поиск минимального элемента массива.\n"
             "Введите в одной строке элементы массива (5 целых чисел) через пробел и нажмите enter\n"
