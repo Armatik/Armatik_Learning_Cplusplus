@@ -19,7 +19,7 @@ void show_array(int **array, const int &rows, const int &columns) {
 }
 
 
-int main() {
+int Lab6_4() {
     system( "chcp 65001");
     int rows, columns, **array;
     cout << "Введите количество строк и столбцов через пробел.";
