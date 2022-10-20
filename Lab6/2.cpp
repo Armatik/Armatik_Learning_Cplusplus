@@ -26,7 +26,7 @@ void show_array(const double *array, const int &size) {
 void get_mem(const double *array) { delete[] array; }
 
 
-int main() {
+int Lab6_2() {
     system( "chcp 65001");
     int userAnswer;
 
