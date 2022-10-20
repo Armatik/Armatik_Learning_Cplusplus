@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std;
+
+
 double* give_array(double *array, int size) {
     array = new double[size];
     return array;
@@ -14,9 +15,9 @@ void push_array(double *array, int size) {
 
 void show_array(const double *array, int size) {
     for (int i = 0; i < size; i++)
-        cout << array[i] << " ";
+        std::cout << array[i] << " ";
 
-    cout << "\n";
+    std::cout << std::endl;
 }
 
 
@@ -27,12 +28,13 @@ double* get_mem(const double *array) {
 }
 
 
-int main() {
+int Lab6_2() {
     double *array = nullptr;
+
     int size = 0;
+
     int arraySize = 0;
-    cout << "Введите размер массива: ";
-    cin >> arraySize;
+    std::cout << "Enter size of array: "; std::cin >> arraySize;
 
     array = give_array(array, arraySize);
 

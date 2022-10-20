@@ -2,6 +2,7 @@
 using namespace std;
 
 int Lab6_3() {
+    system( "chcp 65001");
     int *array = new int[12];
     for (int i = 0; i < 12; i++) {
         int userData;
@@ -18,7 +19,7 @@ int Lab6_3() {
     }
 
     for (int i = 0; i < 12; i++)
-        cout << i << " element = " << array[i] << "\n";
+        cout << i << " элемент = " << array[i] << "\n";
 
     delete[] array;
 
