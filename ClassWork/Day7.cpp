@@ -8,7 +8,7 @@ int *mpoint(int &n, int &m){
         else return &m;
 }
 
-int main (){
+int Day_7 (){
     int n=3, m= 5;
     int *p;
     p=mpoint(n,m);
