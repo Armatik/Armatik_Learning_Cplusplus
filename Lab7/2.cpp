@@ -56,7 +56,7 @@ int min_of_array(int l, int n[5][5]){
 }
 
 
-int main(){
+int Lab7_2(){
     system( "chcp 65001");
     cout << "Введите длину и ширину массива ";
     int l = 5;
