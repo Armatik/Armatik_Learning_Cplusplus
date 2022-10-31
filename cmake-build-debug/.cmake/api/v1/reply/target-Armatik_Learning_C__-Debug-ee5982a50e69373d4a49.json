@@ -93,7 +93,11 @@
 				38,
 				39,
 				40,
-				41
+				41,
+				42,
+				43,
+				44,
+				45
 			]
 		}
 	],
@@ -171,18 +175,16 @@
 				38,
 				39,
 				40,
-				41
+				41,
+				42,
+				43,
+				44,
+				45
 			]
 		}
 	],
 	"sources" : 
 	[
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
-			"sourceGroupIndex" : 0
-		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
@@ -427,6 +429,36 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Lab7/3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lab7/Kniga_Day_5_1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lab7/Kniga_Day_5_3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lab7/Kniga_Day_5_4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lab7/Kniga_Day_5_5.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lab7/Kniga_Day_5_7.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
