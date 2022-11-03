@@ -1,28 +1,29 @@
 ///* 5 и 6 номер */
 //#include <iostream>
+//using namespace std;
 //
-//
-//double division(unsigned short int numeration, unsigned short int denominator);
+//double division(unsigned short int delimoe, unsigned short int delitel);
 //
 //
 //int main() {
-//    unsigned short int numeration, denominator;
+//    unsigned short int delimoe, delitel;
 //    while (true) {
-//        std::cout << "Enter the numeration and denominator seperated by a space respectively: "; std::cin >> numeration >> denominator;
-//        if (numeration >= 0 && denominator >= 0)
+//        cout << "Введите делимое и делитель через пробел: ";
+//        cin >> delimoe >> delitel;
+//        if (delimoe >= 0 and delitel >= 0)
 //            break;
 //        else
-//            std::cout << "Number must be >= 0" << std::endl;
+//            cout << "Число должно быть больше или равно 0!" << "\n";
 //    }
-//
-//    std::cout << division(numeration, denominator) << std::endl;
+//    cout << division(delimoe, delitel) << "\n";
 //
 //    return 0;
 //}
 //
 //
-//double division(unsigned short int numeration, unsigned short int denominator) {
-//    if (denominator)
-//        return (double)numeration / denominator;
+//double division(unsigned short int delimoe, unsigned short int delitel) {
+//    if (delitel != 0) {
+//        return (double) delimoe / delitel;
+//    }
 //    return -1.0;
 //}

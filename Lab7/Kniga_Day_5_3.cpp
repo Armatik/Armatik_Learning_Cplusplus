@@ -1,23 +1,27 @@
 //#include <iostream>
+//using namespace std;
 //
-//
-//unsigned short int myFunc(unsigned short int x);
+//unsigned short int myFunc(unsigned short int x); // Прототип функции
 //
 //
 //int main() {
 //    unsigned short int x, y;
-//    while (true) {
-//        std::cin >> x;
-//        if (x >= 0 && x <= 4)
+//    while (true) { //Бесконечный цикл
+//        cin >> x;
+//        if (x >= 0 and x <= 4) {
 //            break;
-//        else
-//            std::cout << "Number must be between 0 and 4 inclusive" << std::endl;
+//        } else {
+//            cout << "Вводимое число должно быть больше или равно 0 и меньше ли равно 4! Введите число повторно!"
+//                 << "\n";
+//        }
 //    }
 //    y = myFunc(x);
-//    std::cout << "x: " << x << " y: " << y << std::endl;
+//    cout << "x: " << x << " y: " << y << "\n";
 //
 //    return 0;
 //}
 //
 //
-//unsigned short int myFunc(unsigned short int x) { return 4 - x; }
+//unsigned short int myFunc(unsigned short int x) {
+//    return 4 - x;
+//}

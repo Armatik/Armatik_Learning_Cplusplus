@@ -8,206 +8,219 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Armatik_Learning_C__">
-				<Option output="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/Armatik_Learning_C__" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug"/>
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Armatik_Learning_C__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/c++/7/x86_64-suse-linux"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/7/include-fixed"/>
-					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include-fixed"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 Armatik_Learning_C__"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 Armatik_Learning_C__"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Armatik_Learning_C__/fast">
-				<Option output="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/Armatik_Learning_C__" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug"/>
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Armatik_Learning_C__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/c++/7/x86_64-suse-linux"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/7/include-fixed"/>
-					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include-fixed"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 Armatik_Learning_C__/fast"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 Armatik_Learning_C__/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/u604/Arma\ Drive/Programming\ c++/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day3.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day3.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day4.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day4.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day5.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day5.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day6.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day6.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/ClassWork/Day7.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day7.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/10.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/10.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/11.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/11.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/12.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/12.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/13.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/13.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/14.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/14.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/15.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/15.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab2/16.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/16.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/1.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab3/1.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/2.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab3/2.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/3.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab3/3.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab3/dz3.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab3/dz3.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/1.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab4/1.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/2.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab4/2.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/3.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab4/3.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/4.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab4/4.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab4/5.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab4/5.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/1.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/1.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/10.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/10.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/11.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/11.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/12.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/12.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/13.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/13.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/2.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/2.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/3.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/3.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/4.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/4.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/5.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/5.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/6.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/6.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/7.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/7.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/8.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/8.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab5/9.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab5/9.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab6/1.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab6/1.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab6/2.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab6/2.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab6/3.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab6/3.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab6/4.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab6/4.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab7/1.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/1.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/Lab7/2.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/2.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/main.cpp">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/3.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
-		<Unit filename="/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/CMakeLists.txt">
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/Kniga_Day_5_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/Kniga_Day_5_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/Kniga_Day_5_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/Kniga_Day_5_5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/Kniga_Day_5_7.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,5 +1,5 @@
 //#include <iostream>
-//
+//using namespace std;
 //
 //unsigned short int myFunc(unsigned short int x);
 //
@@ -7,18 +7,22 @@
 //int main() {
 //    unsigned short int x, y;
 //    while (true) {
-//        std::cin >> x;
-//        if (x >= 0)
+//        cin >> x;
+//        if (x >= 0){
 //            break;
-//        else
-//            std::cout << "Number must be >= 0" << std::endl;
+//        }
+//        else {
+//            cout << "Вводимое число должно быть больше или равно 0!" << "\n";
+//        }
 //    }
 //
 //    y = myFunc(x);
-//    std::cout << "x: " << x << " y: " << y << std::endl;
+//    cout << "x: " << x << " y: " << y << "\n";
 //
 //    return 0;
 //}
 //
 //
-//unsigned short int myFunc(unsigned short int x) { return 4 * x; }
+//unsigned short int myFunc(unsigned short int x) {
+//    return 4 * x;
+//}

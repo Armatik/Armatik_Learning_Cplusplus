@@ -48,19 +48,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/run/media/u604/Arma Drive/Программы/clion-2022.2.1/bin/cmake/linux/bin/cmake"
+CMAKE_COMMAND = /home/armatik/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = "/run/media/u604/Arma Drive/Программы/clion-2022.2.1/bin/cmake/linux/bin/cmake" -E rm -f
+RM = /home/armatik/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus"
+CMAKE_SOURCE_DIR = /home/armatik/CLionProjects/Armatik_Learning_Cplusplus
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug"
+CMAKE_BINARY_DIR = /home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -68,7 +68,7 @@ CMAKE_BINARY_DIR = "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"/run/media/u604/Arma Drive/Программы/clion-2022.2.1/bin/cmake/linux/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/armatik/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -78,7 +78,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"/run/media/u604/Arma Drive/Программы/clion-2022.2.1/bin/cmake/linux/bin/cmake" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/armatik/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles" "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug//CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles /home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/u604/Arma Drive/Programming c++/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -1089,29 +1089,149 @@ Lab7/2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/2.cpp.s
 .PHONY : Lab7/2.cpp.s
 
-main.o: main.cpp.o
-.PHONY : main.o
+Lab7/3.o: Lab7/3.cpp.o
+.PHONY : Lab7/3.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/main.cpp.o
-.PHONY : main.cpp.o
+Lab7/3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/3.cpp.o
+.PHONY : Lab7/3.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+Lab7/3.i: Lab7/3.cpp.i
+.PHONY : Lab7/3.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/main.cpp.i
-.PHONY : main.cpp.i
+Lab7/3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/3.cpp.i
+.PHONY : Lab7/3.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+Lab7/3.s: Lab7/3.cpp.s
+.PHONY : Lab7/3.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/main.cpp.s
-.PHONY : main.cpp.s
+Lab7/3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/3.cpp.s
+.PHONY : Lab7/3.cpp.s
+
+Lab7/Kniga_Day_5_1.o: Lab7/Kniga_Day_5_1.cpp.o
+.PHONY : Lab7/Kniga_Day_5_1.o
+
+# target to build an object file
+Lab7/Kniga_Day_5_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_1.cpp.o
+.PHONY : Lab7/Kniga_Day_5_1.cpp.o
+
+Lab7/Kniga_Day_5_1.i: Lab7/Kniga_Day_5_1.cpp.i
+.PHONY : Lab7/Kniga_Day_5_1.i
+
+# target to preprocess a source file
+Lab7/Kniga_Day_5_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_1.cpp.i
+.PHONY : Lab7/Kniga_Day_5_1.cpp.i
+
+Lab7/Kniga_Day_5_1.s: Lab7/Kniga_Day_5_1.cpp.s
+.PHONY : Lab7/Kniga_Day_5_1.s
+
+# target to generate assembly for a file
+Lab7/Kniga_Day_5_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_1.cpp.s
+.PHONY : Lab7/Kniga_Day_5_1.cpp.s
+
+Lab7/Kniga_Day_5_3.o: Lab7/Kniga_Day_5_3.cpp.o
+.PHONY : Lab7/Kniga_Day_5_3.o
+
+# target to build an object file
+Lab7/Kniga_Day_5_3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_3.cpp.o
+.PHONY : Lab7/Kniga_Day_5_3.cpp.o
+
+Lab7/Kniga_Day_5_3.i: Lab7/Kniga_Day_5_3.cpp.i
+.PHONY : Lab7/Kniga_Day_5_3.i
+
+# target to preprocess a source file
+Lab7/Kniga_Day_5_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_3.cpp.i
+.PHONY : Lab7/Kniga_Day_5_3.cpp.i
+
+Lab7/Kniga_Day_5_3.s: Lab7/Kniga_Day_5_3.cpp.s
+.PHONY : Lab7/Kniga_Day_5_3.s
+
+# target to generate assembly for a file
+Lab7/Kniga_Day_5_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_3.cpp.s
+.PHONY : Lab7/Kniga_Day_5_3.cpp.s
+
+Lab7/Kniga_Day_5_4.o: Lab7/Kniga_Day_5_4.cpp.o
+.PHONY : Lab7/Kniga_Day_5_4.o
+
+# target to build an object file
+Lab7/Kniga_Day_5_4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_4.cpp.o
+.PHONY : Lab7/Kniga_Day_5_4.cpp.o
+
+Lab7/Kniga_Day_5_4.i: Lab7/Kniga_Day_5_4.cpp.i
+.PHONY : Lab7/Kniga_Day_5_4.i
+
+# target to preprocess a source file
+Lab7/Kniga_Day_5_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_4.cpp.i
+.PHONY : Lab7/Kniga_Day_5_4.cpp.i
+
+Lab7/Kniga_Day_5_4.s: Lab7/Kniga_Day_5_4.cpp.s
+.PHONY : Lab7/Kniga_Day_5_4.s
+
+# target to generate assembly for a file
+Lab7/Kniga_Day_5_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_4.cpp.s
+.PHONY : Lab7/Kniga_Day_5_4.cpp.s
+
+Lab7/Kniga_Day_5_5.o: Lab7/Kniga_Day_5_5.cpp.o
+.PHONY : Lab7/Kniga_Day_5_5.o
+
+# target to build an object file
+Lab7/Kniga_Day_5_5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_5.cpp.o
+.PHONY : Lab7/Kniga_Day_5_5.cpp.o
+
+Lab7/Kniga_Day_5_5.i: Lab7/Kniga_Day_5_5.cpp.i
+.PHONY : Lab7/Kniga_Day_5_5.i
+
+# target to preprocess a source file
+Lab7/Kniga_Day_5_5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_5.cpp.i
+.PHONY : Lab7/Kniga_Day_5_5.cpp.i
+
+Lab7/Kniga_Day_5_5.s: Lab7/Kniga_Day_5_5.cpp.s
+.PHONY : Lab7/Kniga_Day_5_5.s
+
+# target to generate assembly for a file
+Lab7/Kniga_Day_5_5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_5.cpp.s
+.PHONY : Lab7/Kniga_Day_5_5.cpp.s
+
+Lab7/Kniga_Day_5_7.o: Lab7/Kniga_Day_5_7.cpp.o
+.PHONY : Lab7/Kniga_Day_5_7.o
+
+# target to build an object file
+Lab7/Kniga_Day_5_7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.o
+.PHONY : Lab7/Kniga_Day_5_7.cpp.o
+
+Lab7/Kniga_Day_5_7.i: Lab7/Kniga_Day_5_7.cpp.i
+.PHONY : Lab7/Kniga_Day_5_7.i
+
+# target to preprocess a source file
+Lab7/Kniga_Day_5_7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.i
+.PHONY : Lab7/Kniga_Day_5_7.cpp.i
+
+Lab7/Kniga_Day_5_7.s: Lab7/Kniga_Day_5_7.cpp.s
+.PHONY : Lab7/Kniga_Day_5_7.s
+
+# target to generate assembly for a file
+Lab7/Kniga_Day_5_7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.s
+.PHONY : Lab7/Kniga_Day_5_7.cpp.s
 
 # Help Target
 help:
@@ -1242,9 +1362,24 @@ help:
 	@echo "... Lab7/2.o"
 	@echo "... Lab7/2.i"
 	@echo "... Lab7/2.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Lab7/3.o"
+	@echo "... Lab7/3.i"
+	@echo "... Lab7/3.s"
+	@echo "... Lab7/Kniga_Day_5_1.o"
+	@echo "... Lab7/Kniga_Day_5_1.i"
+	@echo "... Lab7/Kniga_Day_5_1.s"
+	@echo "... Lab7/Kniga_Day_5_3.o"
+	@echo "... Lab7/Kniga_Day_5_3.i"
+	@echo "... Lab7/Kniga_Day_5_3.s"
+	@echo "... Lab7/Kniga_Day_5_4.o"
+	@echo "... Lab7/Kniga_Day_5_4.i"
+	@echo "... Lab7/Kniga_Day_5_4.s"
+	@echo "... Lab7/Kniga_Day_5_5.o"
+	@echo "... Lab7/Kniga_Day_5_5.i"
+	@echo "... Lab7/Kniga_Day_5_5.s"
+	@echo "... Lab7/Kniga_Day_5_7.o"
+	@echo "... Lab7/Kniga_Day_5_7.i"
+	@echo "... Lab7/Kniga_Day_5_7.s"
 .PHONY : help
 
 
