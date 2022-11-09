@@ -325,6 +325,42 @@ build CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.obj: CXX_COMPIL
   OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
   OBJECT_FILE_DIR = CMakeFiles\Armatik_Learning_C__.dir\Lab7
 
+build CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_1.cpp.obj: CXX_COMPILER__Armatik_Learning_C___Debug C$:/Users/Sfomc/Desktop/Project/Programming$ Learning/Armatik$ Learning$ C++/Lab8/Kniga_Day_9_1.cpp || cmake_object_order_depends_target_Armatik_Learning_C__
+  DEP_FILE = CMakeFiles\Armatik_Learning_C__.dir\Lab8\Kniga_Day_9_1.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
+  OBJECT_FILE_DIR = CMakeFiles\Armatik_Learning_C__.dir\Lab8
+
+build CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_2.cpp.obj: CXX_COMPILER__Armatik_Learning_C___Debug C$:/Users/Sfomc/Desktop/Project/Programming$ Learning/Armatik$ Learning$ C++/Lab8/Kniga_Day_9_2.cpp || cmake_object_order_depends_target_Armatik_Learning_C__
+  DEP_FILE = CMakeFiles\Armatik_Learning_C__.dir\Lab8\Kniga_Day_9_2.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
+  OBJECT_FILE_DIR = CMakeFiles\Armatik_Learning_C__.dir\Lab8
+
+build CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_4.cpp.obj: CXX_COMPILER__Armatik_Learning_C___Debug C$:/Users/Sfomc/Desktop/Project/Programming$ Learning/Armatik$ Learning$ C++/Lab8/Kniga_Day_9_4.cpp || cmake_object_order_depends_target_Armatik_Learning_C__
+  DEP_FILE = CMakeFiles\Armatik_Learning_C__.dir\Lab8\Kniga_Day_9_4.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
+  OBJECT_FILE_DIR = CMakeFiles\Armatik_Learning_C__.dir\Lab8
+
+build CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_5.cpp.obj: CXX_COMPILER__Armatik_Learning_C___Debug C$:/Users/Sfomc/Desktop/Project/Programming$ Learning/Armatik$ Learning$ C++/Lab8/Kniga_Day_9_5.cpp || cmake_object_order_depends_target_Armatik_Learning_C__
+  DEP_FILE = CMakeFiles\Armatik_Learning_C__.dir\Lab8\Kniga_Day_9_5.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
+  OBJECT_FILE_DIR = CMakeFiles\Armatik_Learning_C__.dir\Lab8
+
+build CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_6.cpp.obj: CXX_COMPILER__Armatik_Learning_C___Debug C$:/Users/Sfomc/Desktop/Project/Programming$ Learning/Armatik$ Learning$ C++/Lab8/Kniga_Day_9_6.cpp || cmake_object_order_depends_target_Armatik_Learning_C__
+  DEP_FILE = CMakeFiles\Armatik_Learning_C__.dir\Lab8\Kniga_Day_9_6.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
+  OBJECT_FILE_DIR = CMakeFiles\Armatik_Learning_C__.dir\Lab8
+
+build CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_8.cpp.obj: CXX_COMPILER__Armatik_Learning_C___Debug C$:/Users/Sfomc/Desktop/Project/Programming$ Learning/Armatik$ Learning$ C++/Lab8/Kniga_Day_9_8.cpp || cmake_object_order_depends_target_Armatik_Learning_C__
+  DEP_FILE = CMakeFiles\Armatik_Learning_C__.dir\Lab8\Kniga_Day_9_8.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
+  OBJECT_FILE_DIR = CMakeFiles\Armatik_Learning_C__.dir\Lab8
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Armatik_Learning_C__
@@ -333,7 +369,7 @@ build CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable Armatik_Learning_C__.exe
 
-build Armatik_Learning_C__.exe: CXX_EXECUTABLE_LINKER__Armatik_Learning_C___Debug CMakeFiles/Armatik_Learning_C__.dir/Lab2/10.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/11.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/12.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/13.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/14.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/15.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/16.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/6.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/7.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/8.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/9.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/10.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/11.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/12.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/13.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day6.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day7.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.obj
+build Armatik_Learning_C__.exe: CXX_EXECUTABLE_LINKER__Armatik_Learning_C___Debug CMakeFiles/Armatik_Learning_C__.dir/Lab2/10.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/11.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/12.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/13.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/14.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/15.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab2/16.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab3/dz3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab4/5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/6.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/7.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/8.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/9.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/10.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/11.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/12.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab5/13.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day6.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab6/4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day7.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_3.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_1.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_2.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_4.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_5.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_6.cpp.obj CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_8.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Armatik_Learning_C__.dir
