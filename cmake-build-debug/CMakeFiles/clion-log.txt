@@ -1,4 +1,0 @@
-/home/armatik/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/armatik/CLionProjects/Armatik_Learning_Cplusplus -B /home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug

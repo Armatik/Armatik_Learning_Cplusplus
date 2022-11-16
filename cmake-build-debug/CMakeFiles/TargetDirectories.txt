@@ -1,3 +1,0 @@
-/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles/Armatik_Learning_C__.dir
-/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
