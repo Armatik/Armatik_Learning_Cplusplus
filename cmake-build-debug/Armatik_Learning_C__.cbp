@@ -97,6 +97,9 @@
 		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day7.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day8.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
 		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab2/10.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
@@ -218,6 +221,27 @@
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
 		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab7/Kniga_Day_5_7.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab8/Kniga_Day_9_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab8/Kniga_Day_9_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab8/Kniga_Day_9_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab8/Kniga_Day_9_5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab8/Kniga_Day_9_6.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab8/Kniga_Day_9_8.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Lab9/Lab9_1.cpp">
 			<Option target="Armatik_Learning_C__"/>
 		</Unit>
 		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/CMakeLists.txt">

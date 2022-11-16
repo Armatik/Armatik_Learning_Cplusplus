@@ -249,6 +249,30 @@ ClassWork/Day7.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day7.cpp.s
 .PHONY : ClassWork/Day7.cpp.s
 
+ClassWork/Day8.o: ClassWork/Day8.cpp.o
+.PHONY : ClassWork/Day8.o
+
+# target to build an object file
+ClassWork/Day8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day8.cpp.o
+.PHONY : ClassWork/Day8.cpp.o
+
+ClassWork/Day8.i: ClassWork/Day8.cpp.i
+.PHONY : ClassWork/Day8.i
+
+# target to preprocess a source file
+ClassWork/Day8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day8.cpp.i
+.PHONY : ClassWork/Day8.cpp.i
+
+ClassWork/Day8.s: ClassWork/Day8.cpp.s
+.PHONY : ClassWork/Day8.s
+
+# target to generate assembly for a file
+ClassWork/Day8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/ClassWork/Day8.cpp.s
+.PHONY : ClassWork/Day8.cpp.s
+
 Lab2/10.o: Lab2/10.cpp.o
 .PHONY : Lab2/10.o
 
@@ -1233,6 +1257,174 @@ Lab7/Kniga_Day_5_7.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab7/Kniga_Day_5_7.cpp.s
 .PHONY : Lab7/Kniga_Day_5_7.cpp.s
 
+Lab8/Kniga_Day_9_1.o: Lab8/Kniga_Day_9_1.cpp.o
+.PHONY : Lab8/Kniga_Day_9_1.o
+
+# target to build an object file
+Lab8/Kniga_Day_9_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_1.cpp.o
+.PHONY : Lab8/Kniga_Day_9_1.cpp.o
+
+Lab8/Kniga_Day_9_1.i: Lab8/Kniga_Day_9_1.cpp.i
+.PHONY : Lab8/Kniga_Day_9_1.i
+
+# target to preprocess a source file
+Lab8/Kniga_Day_9_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_1.cpp.i
+.PHONY : Lab8/Kniga_Day_9_1.cpp.i
+
+Lab8/Kniga_Day_9_1.s: Lab8/Kniga_Day_9_1.cpp.s
+.PHONY : Lab8/Kniga_Day_9_1.s
+
+# target to generate assembly for a file
+Lab8/Kniga_Day_9_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_1.cpp.s
+.PHONY : Lab8/Kniga_Day_9_1.cpp.s
+
+Lab8/Kniga_Day_9_2.o: Lab8/Kniga_Day_9_2.cpp.o
+.PHONY : Lab8/Kniga_Day_9_2.o
+
+# target to build an object file
+Lab8/Kniga_Day_9_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_2.cpp.o
+.PHONY : Lab8/Kniga_Day_9_2.cpp.o
+
+Lab8/Kniga_Day_9_2.i: Lab8/Kniga_Day_9_2.cpp.i
+.PHONY : Lab8/Kniga_Day_9_2.i
+
+# target to preprocess a source file
+Lab8/Kniga_Day_9_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_2.cpp.i
+.PHONY : Lab8/Kniga_Day_9_2.cpp.i
+
+Lab8/Kniga_Day_9_2.s: Lab8/Kniga_Day_9_2.cpp.s
+.PHONY : Lab8/Kniga_Day_9_2.s
+
+# target to generate assembly for a file
+Lab8/Kniga_Day_9_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_2.cpp.s
+.PHONY : Lab8/Kniga_Day_9_2.cpp.s
+
+Lab8/Kniga_Day_9_4.o: Lab8/Kniga_Day_9_4.cpp.o
+.PHONY : Lab8/Kniga_Day_9_4.o
+
+# target to build an object file
+Lab8/Kniga_Day_9_4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_4.cpp.o
+.PHONY : Lab8/Kniga_Day_9_4.cpp.o
+
+Lab8/Kniga_Day_9_4.i: Lab8/Kniga_Day_9_4.cpp.i
+.PHONY : Lab8/Kniga_Day_9_4.i
+
+# target to preprocess a source file
+Lab8/Kniga_Day_9_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_4.cpp.i
+.PHONY : Lab8/Kniga_Day_9_4.cpp.i
+
+Lab8/Kniga_Day_9_4.s: Lab8/Kniga_Day_9_4.cpp.s
+.PHONY : Lab8/Kniga_Day_9_4.s
+
+# target to generate assembly for a file
+Lab8/Kniga_Day_9_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_4.cpp.s
+.PHONY : Lab8/Kniga_Day_9_4.cpp.s
+
+Lab8/Kniga_Day_9_5.o: Lab8/Kniga_Day_9_5.cpp.o
+.PHONY : Lab8/Kniga_Day_9_5.o
+
+# target to build an object file
+Lab8/Kniga_Day_9_5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_5.cpp.o
+.PHONY : Lab8/Kniga_Day_9_5.cpp.o
+
+Lab8/Kniga_Day_9_5.i: Lab8/Kniga_Day_9_5.cpp.i
+.PHONY : Lab8/Kniga_Day_9_5.i
+
+# target to preprocess a source file
+Lab8/Kniga_Day_9_5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_5.cpp.i
+.PHONY : Lab8/Kniga_Day_9_5.cpp.i
+
+Lab8/Kniga_Day_9_5.s: Lab8/Kniga_Day_9_5.cpp.s
+.PHONY : Lab8/Kniga_Day_9_5.s
+
+# target to generate assembly for a file
+Lab8/Kniga_Day_9_5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_5.cpp.s
+.PHONY : Lab8/Kniga_Day_9_5.cpp.s
+
+Lab8/Kniga_Day_9_6.o: Lab8/Kniga_Day_9_6.cpp.o
+.PHONY : Lab8/Kniga_Day_9_6.o
+
+# target to build an object file
+Lab8/Kniga_Day_9_6.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_6.cpp.o
+.PHONY : Lab8/Kniga_Day_9_6.cpp.o
+
+Lab8/Kniga_Day_9_6.i: Lab8/Kniga_Day_9_6.cpp.i
+.PHONY : Lab8/Kniga_Day_9_6.i
+
+# target to preprocess a source file
+Lab8/Kniga_Day_9_6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_6.cpp.i
+.PHONY : Lab8/Kniga_Day_9_6.cpp.i
+
+Lab8/Kniga_Day_9_6.s: Lab8/Kniga_Day_9_6.cpp.s
+.PHONY : Lab8/Kniga_Day_9_6.s
+
+# target to generate assembly for a file
+Lab8/Kniga_Day_9_6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_6.cpp.s
+.PHONY : Lab8/Kniga_Day_9_6.cpp.s
+
+Lab8/Kniga_Day_9_8.o: Lab8/Kniga_Day_9_8.cpp.o
+.PHONY : Lab8/Kniga_Day_9_8.o
+
+# target to build an object file
+Lab8/Kniga_Day_9_8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_8.cpp.o
+.PHONY : Lab8/Kniga_Day_9_8.cpp.o
+
+Lab8/Kniga_Day_9_8.i: Lab8/Kniga_Day_9_8.cpp.i
+.PHONY : Lab8/Kniga_Day_9_8.i
+
+# target to preprocess a source file
+Lab8/Kniga_Day_9_8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_8.cpp.i
+.PHONY : Lab8/Kniga_Day_9_8.cpp.i
+
+Lab8/Kniga_Day_9_8.s: Lab8/Kniga_Day_9_8.cpp.s
+.PHONY : Lab8/Kniga_Day_9_8.s
+
+# target to generate assembly for a file
+Lab8/Kniga_Day_9_8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab8/Kniga_Day_9_8.cpp.s
+.PHONY : Lab8/Kniga_Day_9_8.cpp.s
+
+Lab9/Lab9_1.o: Lab9/Lab9_1.cpp.o
+.PHONY : Lab9/Lab9_1.o
+
+# target to build an object file
+Lab9/Lab9_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab9/Lab9_1.cpp.o
+.PHONY : Lab9/Lab9_1.cpp.o
+
+Lab9/Lab9_1.i: Lab9/Lab9_1.cpp.i
+.PHONY : Lab9/Lab9_1.i
+
+# target to preprocess a source file
+Lab9/Lab9_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab9/Lab9_1.cpp.i
+.PHONY : Lab9/Lab9_1.cpp.i
+
+Lab9/Lab9_1.s: Lab9/Lab9_1.cpp.s
+.PHONY : Lab9/Lab9_1.s
+
+# target to generate assembly for a file
+Lab9/Lab9_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Armatik_Learning_C__.dir/build.make CMakeFiles/Armatik_Learning_C__.dir/Lab9/Lab9_1.cpp.s
+.PHONY : Lab9/Lab9_1.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1257,6 +1449,9 @@ help:
 	@echo "... ClassWork/Day7.o"
 	@echo "... ClassWork/Day7.i"
 	@echo "... ClassWork/Day7.s"
+	@echo "... ClassWork/Day8.o"
+	@echo "... ClassWork/Day8.i"
+	@echo "... ClassWork/Day8.s"
 	@echo "... Lab2/10.o"
 	@echo "... Lab2/10.i"
 	@echo "... Lab2/10.s"
@@ -1380,6 +1575,27 @@ help:
 	@echo "... Lab7/Kniga_Day_5_7.o"
 	@echo "... Lab7/Kniga_Day_5_7.i"
 	@echo "... Lab7/Kniga_Day_5_7.s"
+	@echo "... Lab8/Kniga_Day_9_1.o"
+	@echo "... Lab8/Kniga_Day_9_1.i"
+	@echo "... Lab8/Kniga_Day_9_1.s"
+	@echo "... Lab8/Kniga_Day_9_2.o"
+	@echo "... Lab8/Kniga_Day_9_2.i"
+	@echo "... Lab8/Kniga_Day_9_2.s"
+	@echo "... Lab8/Kniga_Day_9_4.o"
+	@echo "... Lab8/Kniga_Day_9_4.i"
+	@echo "... Lab8/Kniga_Day_9_4.s"
+	@echo "... Lab8/Kniga_Day_9_5.o"
+	@echo "... Lab8/Kniga_Day_9_5.i"
+	@echo "... Lab8/Kniga_Day_9_5.s"
+	@echo "... Lab8/Kniga_Day_9_6.o"
+	@echo "... Lab8/Kniga_Day_9_6.i"
+	@echo "... Lab8/Kniga_Day_9_6.s"
+	@echo "... Lab8/Kniga_Day_9_8.o"
+	@echo "... Lab8/Kniga_Day_9_8.i"
+	@echo "... Lab8/Kniga_Day_9_8.s"
+	@echo "... Lab9/Lab9_1.o"
+	@echo "... Lab9/Lab9_1.i"
+	@echo "... Lab9/Lab9_1.s"
 .PHONY : help
 
 
