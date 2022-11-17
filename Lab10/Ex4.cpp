@@ -1,9 +1,12 @@
 //#include "iostream"
-//
+//#include "cmath"
 //
 //class Employee{
 //private:
 //    unsigned age, yearsOfService, salary;
+//    int round_money(unsigned inMoney){
+//        return int(round((double)inMoney/1000)*1000);
+//    }
 //public:
 //    void set_age(const unsigned &inAge){
 //        age = inAge;
@@ -21,7 +24,7 @@
 //        salary = insalary;
 //    }
 //    int get_salary(){
-//        return salary;
+//        return round_money(salary);
 //    }
 //};
 //
