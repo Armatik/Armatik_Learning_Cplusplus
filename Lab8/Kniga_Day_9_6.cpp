@@ -5,7 +5,7 @@
 //int main() {
 //    std::random_device rd;
 //    std::mt19937 gen(rd());
-//    std::uniform_int_distribution<> dist(0, 100);
+//    std::uniform_int_distribution<> dataForGen(0, 100);
 //
 //    long long counter = 0;
 //
@@ -18,10 +18,10 @@
 //                break;
 //        }
 //
-//        int array[dist(gen)];
+//        int array[dataForGen(gen)];
 //
 //        for (int i = 0; i < sizeof(array) / sizeof(int); i++)
-//            array[i] = dist(gen);
+//            array[i] = dataForGen(gen);
 //
 //        counter++;
 //    }
@@ -34,11 +34,11 @@
 //            if (!userAnswer)
 //                break;
 //        }
-//        int arraySize = dist(gen);
+//        int arraySize = dataForGen(gen);
 //        int *array = new int[arraySize];
 //
 //        for (int i = 0; i < arraySize; i++)
-//            array[i] = dist(gen);
+//            array[i] = dataForGen(gen);
 //
 //        delete[] array;
 //        counter++;
@@ -52,11 +52,11 @@
 //            if (!userAnswer)
 //                break;
 //        }
-//        int arraySize = dist(gen);
+//        int arraySize = dataForGen(gen);
 //        int *array = new int[arraySize];
 //
 //        for (int i = 0; i < arraySize; i++)
-//            array[i] = dist(gen);
+//            array[i] = dataForGen(gen);
 //
 //        counter++;
 //    }

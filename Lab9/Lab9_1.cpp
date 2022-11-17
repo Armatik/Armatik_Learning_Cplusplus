@@ -4,11 +4,11 @@
 //#include "Lab2/16.cpp"
 std::random_device rd;
 std::mt19937 gen(rd());
-std::uniform_int_distribution<> dist(0, 127);
+std::uniform_int_distribution<> dist(0, 255);
 
 
 
-char* generator(unsigned &size) {
+char* rangen(unsigned &size) {
     auto array = new char[size];
 
     for (unsigned i = 0; i < size; i++)

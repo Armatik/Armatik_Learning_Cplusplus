@@ -6,7 +6,7 @@
 //int main() {
 //    std::random_device rd;
 //    std::mt19937 gen(rd());
-//    std::uniform_int_distribution<> dist(-100, 100);
+//    std::uniform_int_distribution<> dataForGen(-100, 100);
 //
 //    unsigned M = 7, N = 9;
 //
@@ -17,7 +17,7 @@
 //
 //    for (unsigned i = 0; i < M; i++)
 //        for (unsigned k = 0; k < N; k++)
-//            array[i][k] = dist(gen);
+//            array[i][k] = dataForGen(gen);
 //
 //    for (unsigned i = 0; i < M; i++) {
 //        for (unsigned k = 0; k < N; k++)

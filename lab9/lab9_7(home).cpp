@@ -6,13 +6,13 @@
 //
 //std::random_device rd;
 //std::mt19937 gen(rd());
-//std::uniform_int_distribution<> dist(0, 255);
+//std::uniform_int_distribution<> dataForGen(0, 255);
 //std::uniform_int_distribution<> sizeWord(1, 20);
 //std::uniform_int_distribution<> sizeArray(1, 100);
 //
 //
 //
-//char* generator(unsigned &size);
+//char* rangen(unsigned &size);
 //
 //
 //int main(){
@@ -24,7 +24,7 @@
 //
 //        txt[i] = new char[firstLaySize];
 //
-//        char *array = generator(firstLaySize);
+//        char *array = rangen(firstLaySize);
 //
 //        txt[i] = array;
 //    }
@@ -41,11 +41,11 @@
 //}
 //
 //
-//char* generator(unsigned &size) {
+//char* rangen(unsigned &size) {
 //    auto array = new char[size];
 //
 //    for (unsigned i = 0; i < size; i++)
-//        array[i] = (char)dist(gen);
+//        array[i] = (char)dataForGen(gen);
 //
 //    return array;
 //}
