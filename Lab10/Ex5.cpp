@@ -4,36 +4,44 @@
 //class Employee{
 //private:
 //    unsigned age, yearsOfService, salary;
-//    int round_money(unsigned inMoney){
-//        return int(round((double)inMoney/1000)*1000);
+//    static unsigned round_money(unsigned inMoney) noexcept {
+//        return (unsigned)round((double)inMoney / 1000) * 1000;
 //    }
 //public:
-//    Employee()
-//
+//    explicit Employee(const unsigned &age, const unsigned &years, const unsigned &salary){
+//        this->age = age;
+//        this->yearsOfService = years;
+//        this->salary = salary;
+//    }
 //
 //    void set_age(const unsigned &inAge){
 //        age = inAge;
 //    }
-//    int get_age(){
+//
+//    [[nodiscard]] unsigned get_age() const {
 //        return age;
 //    }
+//
 //    void set_yearsOfService(const unsigned &inyearsOfService){
 //        yearsOfService = inyearsOfService;
 //    }
-//    int get_yearsOfService(){
+//
+//    [[nodiscard]] unsigned get_yearsOfService() const {
 //        return yearsOfService;
 //    }
+//
 //    void set_salary(const unsigned &insalary){
 //        salary = insalary;
 //    }
-//    int get_salary(){
+//
+//    [[nodiscard]] unsigned get_salary() const {
 //        return round_money(salary);
 //    }
 //};
 //
 //
 //int main() {
-//    Employee Danya{}, Ilya{};
+//    Employee Danya(18, 5, 1400), Ilya{};
 //    unsigned int age, year, salary;
 //    std::cout << "Введите возраст, стаж работы и зарплату работника Даня через пробел: ";
 //    std::cin >> age >> year >> salary;
