@@ -27,7 +27,7 @@ int main(){
 
         txt[i] = new char[firstLaySize];
 
-        char *array = generator(firstLaySize);
+        char *array = rangen(firstLaySize);
 
         txt[i] = array;
     }
