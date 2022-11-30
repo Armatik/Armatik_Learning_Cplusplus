@@ -15,11 +15,13 @@ public:
     }
 
     unsigned& operator = (unsigned &inRadius){
-        return *itsRadius = (inRadius + 5);
+        *itsRadius = (inRadius + 5);
+        return *itsRadius;
     };
 
     unsigned& operator ++ (){
-        return *itsRadius += 2;
+        *itsRadius += 2;
+        return *itsRadius;
     };
 
     ~SimpleCircle(){
@@ -27,7 +29,7 @@ public:
     };
 };
 
-
+и
 int main(){
     unsigned a = 5;
     SimpleCircle first(a), second();
