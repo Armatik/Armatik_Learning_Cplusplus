@@ -1,11 +1,11 @@
-//#define <iostream>
-//
-//
 //class SimpleCircle{
 //private:
 //    unsigned itsRadius;
 //public:
-//    SimpleCircle(unsigned $itsRadius){
+//    SimpleCircle(){
+//        this->itsRadius = 5;
+//    }
+//    SimpleCircle(unsigned itsRadius){
 //        this->itsRadius = itsRadius;
 //    }
 //

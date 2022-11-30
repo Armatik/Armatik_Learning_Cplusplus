@@ -5,31 +5,46 @@
 //private:
 //    unsigned *itsRadius;
 //public:
-//    SimpleCircle(unsigned $itsRadius){
-//        this->itsRadius = itsRadius;
-//        this->itsRadius = new unsigned;
+//    SimpleCircle(){
+//        itsRadius = new unsigned;
+//        *itsRadius = 5;
+//    }
+//    SimpleCircle(unsigned itsRadius){
+//        this->itsRadius = new unsigned(itsRadius);
 //    }
 //
-//    SimpleCircle(const SimpleCircle &object)
-//    {
-//        std::cout << "Конструктор копирования";
+//    SimpleCircle(const SimpleCircle &copyRadius){
+//        this->itsRadius = new unsigned(*copyRadius.itsRadius);
 //    }
 //
 //    void set_itsRadius(unsigned &inRadius){
-//        *itsRadius = inRadius;
+//        *this->itsRadius = inRadius;
 //    }
 //
-//    unsigned& operator = (unsigned &inRadius){
-//        return *itsRadius = (inRadius + 5);
+//    ~SimpleCircle(){
+//        delete itsRadius;
+//    }
+//
+//    unsigned operator ++ (){
+//        return *itsRadius += 2;
 //    };
 //
-//    ~SimpleCircle(){
-//        delete &itsRadius;
+//    unsigned operator -- (){
+//        return *itsRadius -= 2;
 //    };
+//
+//    SimpleCircle& operator = (const SimpleCircle &inRadius){
+//        *itsRadius = *inRadius.itsRadius;
+//        return *this;
+//
+//    }
+//
 //};
 //
 //
 //int main(){
-//    SimpleCircle first(5);
+//    SimpleCircle first(5), second = first;
+//    std::cout << ++second << --second;
+//
 //    return 0;
 //}

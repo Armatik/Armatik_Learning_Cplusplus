@@ -1,5 +1,3 @@
-//#define <iostream>
-//
 //
 //class SimpleCircle{
 //private:

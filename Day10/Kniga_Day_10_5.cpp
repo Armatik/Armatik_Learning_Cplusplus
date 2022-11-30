@@ -1,22 +1,34 @@
-//#define <iostream>
+//#include <iostream>
 //
 //
 //class SimpleCircle{
 //private:
 //    unsigned *itsRadius;
 //public:
-//    SimpleCircle(unsigned $itsRadius){
-//        this->itsRadius = new unsigned;
-//        this->itsRadius = itsRadius;
+//    SimpleCircle(){
+//        itsRadius = new unsigned;
+//        *itsRadius = 5;
+//    }
+//    SimpleCircle(unsigned itsRadius){
+//        this->itsRadius = new unsigned(itsRadius);
 //    }
 //
 //    void set_itsRadius(unsigned &inRadius){
-//        *itsRadius = inRadius;
+//        *this->itsRadius = inRadius;
 //    }
 //
 //    ~SimpleCircle(){
-//        delete &itsRadius;
+//        delete itsRadius;
+//    }
+//
+//    unsigned operator ++ (){
+//        return *itsRadius += 2;
 //    };
+//
+//    unsigned operator -- (){
+//        return *itsRadius -= 2;
+//    };
+//
 //};
 //
 //

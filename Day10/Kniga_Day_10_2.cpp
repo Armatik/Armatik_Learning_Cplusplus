@@ -1,6 +1,4 @@
-//#define <iostream>
-//
-//
+
 //class SimpleCircle{
 //private:
 //    unsigned itsRadius;
@@ -19,6 +17,6 @@
 //
 //
 //int main(){
-//    SimpleCircle first();
+//    SimpleCircle first;
 //    return 0;
 //}

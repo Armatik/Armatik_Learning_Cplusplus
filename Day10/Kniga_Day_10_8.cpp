@@ -5,34 +5,52 @@ class SimpleCircle{
 private:
     unsigned *itsRadius;
 public:
-    SimpleCircle(unsigned &itsRadius){
-        this->itsRadius = new unsigned;
-        this->itsRadius = &itsRadius;
+    SimpleCircle(){
+        itsRadius = new unsigned;
+        *itsRadius = 5;
+    }
+    SimpleCircle(unsigned itsRadius){
+        this->itsRadius = new unsigned(itsRadius);
+    }
+
+    SimpleCircle(const SimpleCircle &copyRadius){
+        this->itsRadius = new unsigned(*copyRadius.itsRadius);
     }
 
     void set_itsRadius(unsigned &inRadius){
-        *itsRadius = inRadius;
+        *this->itsRadius = inRadius;
     }
 
-    unsigned& operator = (unsigned &inRadius){
-        *itsRadius = (inRadius + 5);
+    unsigned get_itsRadius(){
         return *itsRadius;
-    };
-
-    unsigned& operator ++ (){
-        *itsRadius += 2;
-        return *itsRadius;
-    };
+    }
 
     ~SimpleCircle(){
-        delete &itsRadius;
+        delete itsRadius;
+    }
+
+    unsigned operator ++ (){
+        return *itsRadius += 2;
     };
+
+    unsigned operator -- (){
+        return *itsRadius -= 2;
+    };
+
+    SimpleCircle& operator = (const SimpleCircle &inRadius){
+        *itsRadius = *inRadius.itsRadius;
+        return *this;
+
+    }
+
 };
 
-и
+
 int main(){
-    unsigned a = 5;
-    SimpleCircle first(a), second();
+    SimpleCircle first, second(9);
+    std::cout << ++second << " "  << --second << " " << ++first << " "  << --first << "\n";
+    second = first;
+    std::cout << second.get_itsRadius();
 
     return 0;
 }
