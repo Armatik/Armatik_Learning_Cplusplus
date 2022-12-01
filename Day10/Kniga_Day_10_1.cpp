@@ -1,4 +1,3 @@
-//
 //class SimpleCircle{
 //private:
 //    unsigned itsRadius;
