@@ -4,32 +4,32 @@
 //
 //class square{
 //private:
-//    unsigned *radius;
+//    unsigned *lenght;
 //public:
 //    square(){
-//        this->radius = new unsigned (10);
+//        this->lenght = new unsigned (10);
 //    }
-//    square(const unsigned &radius){
-//    this->radius = new unsigned (radius);
+//    square(const unsigned &lenght){
+//    this->lenght = new unsigned (lenght);
 //    }
 //    ~square(){
-//        delete this->radius;
+//        delete this->lenght;
 //    }
-//    void set_radius(const unsigned &radius){
-//        *this->radius = radius;
+//    void set_radius(const unsigned &lenght){
+//        *this->lenght = lenght;
 //    }
 //    unsigned get_radius(){
-//        return *this->radius;
+//        return *this->lenght;
 //    }
 //    unsigned get_ploshad(){
-//        return ((*this->radius) * (*this->radius));
+//        return ((*this->lenght) * (*this->lenght));
 //    }
 //
 //    unsigned get_perimeter(){
-//        return ((*this->radius) * 4);
+//        return ((*this->lenght) * 4);
 //    }
 //    double get_diagonal(){
-//        return ((*this->radius) * sqrt(2));
+//        return ((*this->lenght) * sqrt(2));
 //    }
 //};
 //
