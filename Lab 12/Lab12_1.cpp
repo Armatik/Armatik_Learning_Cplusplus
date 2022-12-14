@@ -1,24 +1,28 @@
 #include <iostream>
-#include <string>
 
 
-int main(){
-    std::string *str = new std::string;
-    std::string temp_str;
-    getline(std::cin, *str);
-    for (unsigned i = str->length(); i > 0; i--){
-        temp_str = str[0][0];
-        temp_str = str[0][i];
-        if (str[0][i] == str[0][0]){
-            std::cout << "Последнее слово содержит первую букву первого слова.";
-            return 0;
-        }
-        if (i < ((str[0]).rfind(""))){
-            std::cout << "Не содержит.";
-            return 0;
-        }
+int main() {
+    auto firstWord = new std::string;
+    unsigned spaces = 0;
+    char lastChar = 0;
 
+    std::cout << "Enter the first word and second by space respectability: "; std::getline(std::cin, *firstWord);
 
-    }
+    for (char i: *firstWord)
+        if (i == ' ')
+            spaces++;
+        else if ((int) i >= 97 && (int) i <= 122)
+            lastChar = i;
+
+    if (spaces == 0)
+        return 1;
+
+    if (::tolower((int)lastChar) == ::tolower((*firstWord)[0]))
+        std::cout << "Words fulfill the condition of the task" << std::endl;
+    else
+        std::cout << "Words do not fulfill the condition of the task"  << std::endl;
+
+    delete firstWord;
+
     return 0;
 }
