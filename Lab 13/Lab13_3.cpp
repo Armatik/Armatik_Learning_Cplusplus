@@ -7,19 +7,20 @@
 //
 //class triangle{
 //private:
-//    unsigned *lenght;
+//    unsigned *lenght;   // Длина стороны треугольника
 //public:
-//    triangle(){
+//    triangle(){     // Констркутор по умолчанию с длиной стороны 10
 //        this->lenght = new unsigned;
 //        *this->lenght = 10;
-//
 //    }
-//
-//    triangle(const unsigned &lenght){
+//    triangle(const unsigned &lenght){   // Конструктор принимающий значение стороны треугольника
 //        this->lenght = new unsigned;
 //        *this->lenght = lenght;
 //    }
-//    void get_triangle_info(){
+//    ~triangle(){ // Деструктор
+//        delete lenght;
+//    }
+//    void get_triangle_info(){ // Метод вывода необходимой информации о треугольнике.
 //        std::cout << "Длина стороны треугольника: " << *this->lenght << " Периметр треугольника: " << *this->lenght * 3 << " Площадь треугольника: "
 //        << ((*this->lenght * *this->lenght * sqrt(3)) / 2) << "\n";
 //    }

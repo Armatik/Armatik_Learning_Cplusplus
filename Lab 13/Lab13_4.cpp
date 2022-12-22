@@ -4,13 +4,13 @@
 //#include <iostream>
 //class bill{
 //private:
-//    std::string *number;
-//    unsigned *cost_per_min;
-//    unsigned *sale;
-//    unsigned *speak_time;
-//    double *final_cost;
+//    std::string *number;        // Номер телефона
+//    unsigned *cost_per_min;     // Стоимость 1 минуты разговора
+//    unsigned *sale;             // Скидка
+//    unsigned *speak_time;       // Время разговора
+//    double *final_cost;         // Финальная стоимость
 //public:
-//    bill(){
+//    bill(){                     // Конструктор по умолчанию
 //        this->number = new std::string;
 //        this->cost_per_min = new unsigned;
 //        this->sale = new unsigned;
@@ -23,7 +23,7 @@
 //        *this->final_cost = 0;
 //    }
 //
-//    bill(const std::string &number, const unsigned &cost_per_min, const unsigned &sale, const unsigned &speak_time){
+//    bill(const std::string &number, const unsigned &cost_per_min, const unsigned &sale, const unsigned &speak_time){ // Конструктор с принимаемыми параметрами.
 //        this->number = new std::string;
 //        this->cost_per_min = new unsigned;
 //        this->sale = new unsigned;
@@ -35,10 +35,18 @@
 //        *this->speak_time = speak_time;
 //        *this->final_cost = 0;
 //    }
-//    void get_final_cost() {
+//
+//    ~bill(){    // Деструктор по умолчанию.
+//        delete number;
+//        delete cost_per_min;
+//        delete sale;
+//        delete speak_time;
+//        delete final_cost;
+//    }
+//    void get_final_cost() { // Расчёт финального счёта на оплату
 //        *final_cost = ((*this->speak_time * *this->cost_per_min)/100 * (100-*this->sale));
 //    }
-//    void get_number_info(){
+//    void get_number_info(){     // Вывод информации о номере
 //        get_final_cost();
 //        std::cout << "Номер: " << *this->number << "\n"
 //        << "=========================" << "\n"
