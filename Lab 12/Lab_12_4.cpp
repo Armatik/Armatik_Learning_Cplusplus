@@ -1,55 +1,53 @@
 //#include <iostream>
-//#include <random>
 //
+//using namespace std;
 //
-//std::random_device rd;
-//std::mt19937 gen(rd());
-//std::uniform_int_distribution<> size(2, 64);
-//std::uniform_int_distribution<> dist(32, 127);
+//int main()
+//{
+//    string *simbl = new string;         //Динамическая строка
 //
+//    cout << "Введите строку с помощью (Допустимы латиница, цифры, и один символ +): ";
+//    getline(cin,*simbl);
 //
-//int main() {
-//    unsigned arraySize = size(gen);
-//    auto str = new char[arraySize];
+//    string prom = *simbl;
 //
-//    for (unsigned i = 0; i < arraySize; i++) {
-//        str[i] = (char)dist(gen);
-//        std::cout << str[i] << ' ';
-//    }
-//
-//    std::cout << std::endl;
-//
-//    for (unsigned i = 0; i < arraySize; i++) {
-//        if (str[i] == '+') {
-//            for (unsigned k = 0; k < i; k++) {
-//                int nowSymbol = (int)(unsigned char)str[k];
-//
-//                switch (nowSymbol) {
-//                    case 48:
-//                    case 49:
-//                    case 50:
-//                    case 51:
-//                    case 52:
-//                    case 53:
-//                    case 54:
-//                    case 55:
-//                    case 56:
-//                    case 57:
-//                        str[k] = '-';
-//                        break;
-//                    default:
-//                        break;
-//                }
-//            }
-//
-//            break;
+//    int len = prom.find('+');
+//    for (int i = 0; i < len; i++) {
+//        if(prom[i] == '0'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '1'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '2'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '3'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '4'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '5'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '6'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '7'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '8'){
+//            prom[i] = '-';
+//        }
+//        if(prom[i] == '9'){
+//            prom[i] = '-';
 //        }
 //    }
 //
-//    for (unsigned i = 0; i < arraySize; i++)
-//        std::cout << str[i] << ' ';
+//    cout<<prom;
 //
-//    delete[] str;
+//    delete simbl;           //Освобождение памяти
 //
 //    return 0;
 //}

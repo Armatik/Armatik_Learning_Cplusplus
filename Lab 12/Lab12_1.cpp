@@ -1,28 +1,25 @@
 //#include <iostream>
+//#include <string>
 //
+//using namespace std;
 //
-//int main() {
-//    auto firstWord = new std::string;
-//    unsigned spaces = 0;
-//    char lastChar = 0;
+//int main()
+//{
+//    string *simbl = new string;         //Динамическая строка
 //
-//    std::cout << "Enter the first word and second by space respectability: "; std::getline(std::cin, *firstWord);
+//    cout << "Введите строку с помощью Caps: ";
+//    getline(cin,*simbl);                //Заполнение строки буквами
 //
-//    for (char i: *firstWord)
-//        if (i == ' ')
-//            spaces++;
-//        else if ((int) i >= 97 && (int) i <= 122)
-//            lastChar = i;
+//    string prom = *simbl;
+//    char countSimb = prom[0];           //Вспомогательные переменные
 //
-//    if (spaces == 0)
-//        return 1;
+//    if(prom.rfind(countSimb) > prom.rfind(" ")){            //Поиск и вывод
+//        cout << "\nДа, в последнем слове присутствует буква " << countSimb << ", её номер в строке: " << prom.rfind(countSimb);
+//    } else {
+//        cout << "\nДанной буквы, в последнем слове нету";
+//    }
 //
-//    if (::tolower((int)lastChar) == ::tolower((*firstWord)[0]))
-//        std::cout << "Words fulfill the condition of the task" << std::endl;
-//    else
-//        std::cout << "Words do not fulfill the condition of the task"  << std::endl;
-//
-//    delete firstWord;
+//    delete simbl;           //Освобождение памяти
 //
 //    return 0;
 //}

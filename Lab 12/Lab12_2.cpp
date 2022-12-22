@@ -1,49 +1,57 @@
 //#include <iostream>
-//#include <random>
 //
+//using namespace std;
 //
-//std::random_device rd;
-//std::mt19937 gen(rd());
-//std::uniform_int_distribution<> size(2, 16);
-//std::uniform_int_distribution<> dist(-100, 100);
+//void full(int * array, int len);            //Прототипы
 //
+//int count(int * array, int len);
 //
-//int main() {
-//    unsigned arraySize = size(gen), funcGrow = 0, funcDecreasing = 0;
-//    auto array = new int[arraySize];
+//int main()
+//{
+//    srand(time(nullptr));
+//    int len;
+//    cout<<"Введите размер массива: "; cin>> len;
 //
-//    for (unsigned i = 0; i < arraySize; i++) {
-//        array[i] = dist(gen);
-//        std::cout << array[i] << ' ';
-//    }
+//    int *array = new int[len];              //Создание динамического массива
 //
-//    std::cout << std::endl;
+//    full(array, len);
 //
-//    bool growing = true;
+//    cout<<"Промежутков монотонности: "<<count(array, len);
 //
-//    if (array[0] < 0) {
-//        growing = false;
-//        funcDecreasing++;
-//    } else
-//        funcGrow++;
-//
-//    for (unsigned i = 0; i < arraySize; i++) {
-//        if (array[i] < 0) {
-//            if (growing) {
-//                growing = false;
-//                funcDecreasing++;
-//            }
-//        } else
-//        if (!growing) {
-//            growing = true;
-//            funcGrow++;
-//        }
-//    }
-//
-//    std::cout << "Function increases " << funcGrow << " times" << std::endl;
-//    std::cout << "Function decreasing " << funcDecreasing << " times" << std::endl;
-//
-//    delete[] array;
+//    delete [] array;                        //Удаление динамического массива
 //
 //    return 0;
 //}
+//
+//void full(int * array, int len){            //Заполнение массива
+//    for (int i = 0; i < len; i++) {
+//        array[i] = rand() % 1000;
+//        cout<< array[i]<< endl;
+//    }
+//}
+//
+//int count(int * a, int n){              //Нахождение и подсчёт промежутков монотонности
+//    unsigned i, j, m = 0;
+//    for(i = 1; i < n; i = j){
+//        j = i;
+//        while((j < n) && (a[j] >= a[j - 1]))
+//            ++j;
+//        if((j - i) > 1)
+//            ++m;
+//
+//        i = j;
+//        while((j < n) && (a[j] <= a[j - 1]))
+//            ++j;
+//        if((j - i) > 1)
+//            ++m;
+//    }
+//    return m;
+//}
+//
+//
+//
+//
+//
+//
+//
+//

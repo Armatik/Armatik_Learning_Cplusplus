@@ -1,47 +1,65 @@
 //#include <iostream>
-//#include <random>
 //
+//using namespace std;
 //
-//std::random_device rd;
-//std::mt19937 gen(rd());
-//std::uniform_int_distribution<> size(2, 16);
-//std::uniform_int_distribution<> dist(-100, 100);
+//void full(int * array, int len);            //Прототипы
 //
+//void switced(int * array, int len);
 //
-//int main() {
-//    unsigned arraySize = size(gen);
-//    auto array = new int[arraySize];
-//    int max = INT32_MIN, min = INT32_MAX, maxElem, minElem;
+//int main()
+//{
+//    srand(time(nullptr));
+//    int len;
+//    cout<<"Введите размер массива: "; cin>> len;
 //
-//    for (unsigned i = 0; i < arraySize; i++) {
-//        array[i] = dist(gen);
-//        std::cout << array[i] << ' ';
+//    int *array = new int[len];              //Создание динамического массива
 //
-//        if (array[i] > max) {
-//            max = array[i];
-//            maxElem = (int)i;
-//            continue;
-//        }
+//    full(array, len);
 //
-//        if (array[i] < min) {
-//            min = array[i];
-//            minElem = (int)i;
-//        }
-//    }
+//    switced(array, len);
 //
-//    std::cout << std::endl;
-//
-//    for (unsigned i = 0; i < arraySize; i++) {
-//        if (i == maxElem)
-//            array[i] = min;
-//
-//        if (i == minElem)
-//            array[i] = max;
-//
-//        std::cout << array[i] << ' ';
-//    }
-//
-//    delete[] array;
+//    delete [] array;                        //Удаление динамического массива
 //
 //    return 0;
 //}
+//
+//void full(int * array, int len){            //Заполнение массива
+//    for (int i = 0; i < len; i++) {
+//        array[i] = rand() % 1000;
+//        cout<< array[i]<< endl;
+//    }
+//}
+//
+//void switced(int * array, int len){         //Замена
+//    int max, min, posMax, posMin = 0;
+//
+//    for (int i = 1; i < len; i++) {         //Нахождение максимального
+//        if(array[i-1] > array[i]){
+//            max = array[i - 1];
+//            posMax = i-1;
+//        }
+//    }
+//    min = max;
+//    for (int i = 0; i < len; i++) {         //Нахождение минимального
+//        if(min > array[i]){
+//            min = array[i];
+//            posMin = i;
+//        }
+//    }
+//    array[posMax] = min;                    //Замена
+//    array[posMin] = max;
+//    cout<<"Наибольшее и наименьшее значение в массиве: "<<max<< " "<< min<<endl <<"Текущий массив: "<< endl;
+//
+//    for (int i = 0; i < len; i++) {         //Конечный вывод
+//        cout<< array[i]<< endl;
+//    }
+//}
+//
+//
+//
+//
+//
+//
+//
+//
+//
