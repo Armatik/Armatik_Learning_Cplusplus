@@ -41,16 +41,16 @@ public:
         return a + b > c && a + c > b && b + c > a;
     }
 
-    void getlength(){
+    void getlength() const{
         std::cout << "a = " << a << " b = " << b << " c = " << c << std::endl;
     }
-    double getcornerA(){
+    double getcornerA() const{
         return acos((b*b+c*c-a*a)/(2*b*c));
     }
-    double getgornerB(){
+    double getgornerB() const{
         return acos((a*a+c*c-b*b)/(2*a*c));
     }
-    double getcornerC(){
+    double getcornerC() const{
         return acos((a*a+b*b-c*c)/(2*a*b));
     }
 };
