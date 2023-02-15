@@ -1,35 +1,35 @@
-class Shape {
+class Shape { // Класс Shape
 public:
-    virtual Shape() noexcept = default;
+    virtual Shape() noexcept = default; // Конструктор по умолчанию
 
-    ~Shape() noexcept = default;
+    ~Shape() noexcept = default; // Деструктор по умолчанию
 };
 
 
-class Rectangle: public Shape {
+class Rectangle: public Shape { // Класс Rectangle
 private:
-    unsigned length;
-    unsigned width;
+    unsigned length; // Длина
+    unsigned width; // Ширина
 public:
-    explicit Rectangle(const unsigned &length, const unsigned &width) noexcept;
+    explicit Rectangle(const unsigned &length, const unsigned &width) noexcept; // Конструктор принимающий длину и ширину
 
-    virtual ~Rectangle() noexcept = default;
+    virtual ~Rectangle() noexcept = default; // Виртуальный деструктор
 };
 
 
-class Square: public Rectangle {
+class Square: public Rectangle { // Класс Square
 private:
-    unsigned length;
+    unsigned length; // Длина
 public:
-    Square(const unsigned &length, const unsigned &width, const Square &object) noexcept;
+    Square(const unsigned &length, const unsigned &width, const Square &object) noexcept; // Конструктор принимающий длину, ширину и объект
 
-    explicit Square(const unsigned &_length, const unsigned &width, const unsigned &length) noexcept;
+    explicit Square(const unsigned &_length, const unsigned &width, const unsigned &length) noexcept; // Конструктор принимающий длину, ширину и длину
 
-    ~Square() override = default;
+    ~Square() override = default; // Деструктор
 };
 
 
-void some_function(Shape);
+void some_function(Shape); // Функция принимающая объект класса Shape
 
 
 int main() {
@@ -41,14 +41,15 @@ int main() {
 }
 
 
-Rectangle::Rectangle(const unsigned &length, const unsigned &width) noexcept {
+Rectangle::Rectangle(const unsigned &length, const unsigned &width) noexcept { // Конструктор принимающий длину и ширину
     this->length = length, this->width = width;
 }
 
 
-Square::Square(const unsigned &length, const unsigned &width, const Square &object) noexcept :
+Square::Square(const unsigned &length, const unsigned &width, const Square &object) noexcept : // Конструктор принимающий длину, ширину и объект
         Rectangle(length, width) { this->length = object.length; }
 
 
-Square::Square(const unsigned &_length, const unsigned &width, const unsigned &length) noexcept :
+Square::Square(const unsigned &_length, const unsigned &width, const unsigned &length) noexcept : // Конструктор принимающий длину, ширину и длину
         Rectangle(_length, width) { this->length = length; }
+

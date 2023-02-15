@@ -4,5 +4,5 @@ public:
 
     ~Test() noexcept = default;
 
-    virtual void function(const int &number) = 0;
+    virtual void function(const int &number) = 0; // Чисто виртуальная функция
 };

@@ -1,31 +1,31 @@
-class Shape {
+class Shape { // Класс Shape
 public:
-    Shape() noexcept = default;
+    Shape() noexcept = default; // Конструктор по умолчанию
 
     ~Shape() noexcept = default;
 };
 
 
-class Rectangle: public Shape {
+class Rectangle: public Shape { // Класс Rectangle
 private:
-    unsigned length;
-    unsigned width;
+    unsigned length; // Длина
+    unsigned width; // Ширина
 public:
-    explicit Rectangle(const unsigned &length, const unsigned &width) noexcept;
+    explicit Rectangle(const unsigned &length, const unsigned &width) noexcept; // Конструктор принимающий длину и ширину
 
-    virtual ~Rectangle() noexcept = default;
+    virtual ~Rectangle() noexcept = default; // Виртуальный деструктор
 };
 
 
-class Square: public Rectangle {
+class Square: public Rectangle { // Класс Square
 private:
-    unsigned length;
+    unsigned length; // Длина
 public:
-    Square(const Square &object) noexcept;
+    Square(const Square &object) noexcept; // Конструктор принимающий объект
 
-    explicit Square(const unsigned &length) noexcept;
+    explicit Square(const unsigned &length) noexcept; // Конструктор принимающий длину
 
-    ~Square() override = default;
+    ~Square() override = default; // Деструктор
 };
 
 

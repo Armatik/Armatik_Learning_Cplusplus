@@ -1,22 +1,22 @@
-class Shape {
+class Shape { // Класс Shape
 public:
-    Shape() noexcept = default;
+    Shape() noexcept = default; // Конструктор по умолчанию
 
-    ~Shape() noexcept = default;
+    ~Shape() noexcept = default; // Деструктор по умолчанию
 };
 
 
-class Rectangle: public Shape {
+class Rectangle: public Shape { // Класс Rectangle
 public:
-    Rectangle() noexcept = default;
+    Rectangle() noexcept = default; // Конструктор по умолчанию
 
-    ~Rectangle() noexcept = default;
+    ~Rectangle() noexcept = default; //
 };
 
 
-class Square: public Rectangle {
+class Square: public Rectangle { // Класс Square
 public:
-    Square() noexcept = default;
+    Square() noexcept = default; // Конструктор по умолчанию
 
-    ~Square() noexcept = default;
+    ~Square() noexcept = default; // Деструктор по умолчанию
 };

@@ -1,8 +1,8 @@
-class Shape {
+class Shape {   // Класс Shape
 public:
-    Shape() noexcept = default;
+    Shape() noexcept = default; // Конструктор по умолчанию
 
-    virtual ~Shape() noexcept = default;
+    virtual ~Shape() noexcept = default; // Виртуальный деструктор
 
-    explicit Shape(const Shape&) noexcept;
+    explicit Shape(const Shape&) noexcept; // Конструктор копирования
 };
