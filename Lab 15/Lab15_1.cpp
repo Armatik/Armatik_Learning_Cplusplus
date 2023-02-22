@@ -78,9 +78,10 @@ int main(){
         }
     }
     std::cout << "Вывод информации о трегуольниках" << std::endl;
+    std::cout << "=============================" << std::endl;
     for(int i = 0; i<10; i++){
         ptr1[i]->getlength();
-        std::cout << "Индекс треугольника" << i+1 << std::endl;
+        std::cout << "Индекс треугольника: " << i+1 << std::endl;
         std::cout << "Периметр = " << ptr1[i]->getPerimeter() << std::endl;
         std::cout << "Площадь = " << ptr1[i]->getArea() << std::endl;
         std::cout << "Угол A = " << ptr1[i]->getcornerA() <<" градусов" << std::endl;
@@ -106,9 +107,10 @@ int main(){
         }
     }
     std::cout << "Вывод информации о прямоугольных трегуольниках" << std::endl;
+    std::cout << "=============================" << std::endl;
     for(int i = 0; i<10; i++){
         ptr2[i]->getlength();
-        std::cout << "Индекс треугольника" << i+1 << std::endl;
+        std::cout << "Индекс треугольника: " << i+1 << std::endl;
         std::cout << "Периметр = " << ptr2[i]->getPerimeter() <<" градусов" << std::endl;
         std::cout << "Площадь = " << ptr2[i]->getArea() << std::endl;
         std::cout << "Угол A = " << ptr2[i]->getcornerA() <<" градусов" << std::endl;
