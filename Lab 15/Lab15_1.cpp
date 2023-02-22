@@ -45,13 +45,13 @@ public:
         std::cout << "a = " << a << " b = " << b << " c = " << c << std::endl;
     }
     double getcornerA() const{
-        return acos((b*b+c*c-a*a)/(2*b*c));
+        return acos((b*b+c*c-a*a)/(2*b*c))*180/3.14;
     }
     double getgornerB() const{
-        return acos((a*a+c*c-b*b)/(2*a*c));
+        return acos((a*a+c*c-b*b)/(2*a*c))*180/3.14;
     }
     double getcornerC() const{
-        return acos((a*a+b*b-c*c)/(2*a*b));
+        return acos((a*a+b*b-c*c)/(2*a*b))*180/3.14;
     }
 };
 
@@ -68,53 +68,76 @@ public:
 };
 
 int main(){
-    // генератор обьектов класса trinagle с рандомными значениями сторон использая рандомный генератор c++11, проверкой на треугольник методом isTriangle(), если сгенерировался не треугольник то перегенерировать его пока не получится треугольник и выводом на экран.
-    triangle *ptr1 = new triangle(rand()%100+1,rand()%100+1,rand()%100+1);
-    while(!ptr1->isTriangle()){
-        ptr1 = new triangle(rand()%100+1,rand()%100+1,rand()%100+1);
+    //русский язык консоли для windows
+    system("chcp 65001");
+    triangle *ptr1[10];
+    for (int i = 0; i < 10; i++){
+        ptr1[i] = new triangle(rand()%100+1,rand()%100+1,rand()%100+1);
+        while(!ptr1[i]->isTriangle()){
+            ptr1[i] = new triangle(rand()%100+1,rand()%100+1,rand()%100+1);
+        }
     }
-    ptr1->getlength();
-    std::cout << "Perimeter = " << ptr1->getPerimeter() << std::endl;
-    std::cout << "Area = " << ptr1->getArea() << std::endl;
-    std::cout << "cornerA = " << ptr1->getcornerA() << std::endl;
-    std::cout << "cornerB = " << ptr1->getgornerB() << std::endl;
-    std::cout << "cornerC = " << ptr1->getcornerC() << std::endl;
+    std::cout << "Вывод информации о трегуольниках" << std::endl;
+    for(int i = 0; i<10; i++){
+        ptr1[i]->getlength();
+        std::cout << "Индекс треугольника" << i+1 << std::endl;
+        std::cout << "Периметр = " << ptr1[i]->getPerimeter() << std::endl;
+        std::cout << "Площадь = " << ptr1[i]->getArea() << std::endl;
+        std::cout << "Угол A = " << ptr1[i]->getcornerA() <<" градусов" << std::endl;
+        std::cout << "Угол B = " << ptr1[i]->getgornerB() <<" градусов" << std::endl;
+        std::cout << "Угол C = " << ptr1[i]->getcornerC() <<" градусов" << std::endl;
+        std::cout << "=============================" << std::endl;
+    }
     //вывод средней площади треугольников в массиве ptr1
     double aper = 0;
     for(int i = 0; i < 10; i++){
-        aper += ptr1[i].getArea();
+        aper += ptr1[i]->getArea();
     }
-    std::cout << "Average area = " << aper/10 << std::endl;
-    delete ptr1;
-    // генератор обьектов класса iscelleneous с рандомными значениями сторон использая рандомный генератор c++11, проверкой на треугольник методом isTriangle(), если сгенерировался не треугольник то перегенерировать его пока не получится треугольник и выводом на экран.
-    iscelleneous *ptr2 = new iscelleneous(rand()%100+1,rand()%100+1,rand()%100+1);
-    while(!ptr2->isTriangle()){
-        ptr2 = new iscelleneous(rand()%100+1,rand()%100+1,rand()%100+1);
+    std::cout << "Средняя площадь треугольников = " << aper/10 << std::endl;
+    std::cout << "=============================" << std::endl;
+    for(int i = 0; i < 10; i++){
+        delete ptr1[i];
     }
-    ptr2->getlength();
-    std::cout << "Perimeter = " << ptr2->getPerimeter() << std::endl;
-    std::cout << "Area = " << ptr2->getArea() << std::endl;
-    std::cout << "cornerA = " << ptr2->getcornerA() << std::endl;
-    std::cout << "cornerB = " << ptr2->getgornerB() << std::endl;
-    std::cout << "cornerC = " << ptr2->getcornerC() << std::endl;
+    iscelleneous *ptr2[10];
+    for (int i = 0; i < 10; i++){
+        ptr2[i] = new iscelleneous(rand()%100+1,rand()%100+1,rand()%100+1);
+        while(!ptr2[i]->isTriangle() and !ptr2[i]->isIsosceles()){
+            ptr2[i] = new iscelleneous(rand()%100+1,rand()%100+1,rand()%100+1);
+        }
+    }
+    std::cout << "Вывод информации о прямоугольных трегуольниках" << std::endl;
+    for(int i = 0; i<10; i++){
+        ptr2[i]->getlength();
+        std::cout << "Индекс треугольника" << i+1 << std::endl;
+        std::cout << "Периметр = " << ptr2[i]->getPerimeter() <<" градусов" << std::endl;
+        std::cout << "Площадь = " << ptr2[i]->getArea() << std::endl;
+        std::cout << "Угол A = " << ptr2[i]->getcornerA() <<" градусов" << std::endl;
+        std::cout << "Угол B = " << ptr2[i]->getgornerB() <<" градусов" << std::endl;
+        std::cout << "Угол C = " << ptr2[i]->getcornerC() <<" градусов" << std::endl;
+
+        std::cout << "=============================" << std::endl;
+    }
     //вывод данных о треугольнике с минимальной площадью в массиве ptr2
     double min = 1000000;
     int index = 0;
     for(int i = 0; i < 10; i++){
-        if(ptr2[i].getArea() < min and ptr2[i].isIsosceles()){
-            min = ptr2[i].getArea();
+        if(ptr2[i]->getArea() < min and ptr2[i]->isIsosceles()){
+            min = ptr2[i]->getArea();
             index = i;
         }
     }
+    std::cout << "Индекс прямоугольного треугольника с минимальной площадью = " << index + 1 << std::endl;
+    ptr2[index]->getlength();
+    std::cout << "Периметр = " << ptr2[index]->getPerimeter() << std::endl;
+    std::cout << "Площадь = " << ptr2[index]->getArea() << std::endl;
+    std::cout << "Угол A = " << ptr2[index]->getcornerA() <<" градусов" << std::endl;
+    std::cout << "Угол B = " << ptr2[index]->getgornerB() <<" градусов" << std::endl;
+    std::cout << "Угол C = " << ptr2[index]->getcornerC() <<" градусов" << std::endl;
+    std::cout << "=============================" << std::endl;
 
-    std::cout << "index iscelleneous trinagle with min area is = " << index << std::endl;
-    ptr2[index].getlength();
-    std::cout << "Perimeter = " << ptr2[index].getPerimeter() << std::endl;
-    std::cout << "Area = " << ptr2[index].getArea() << std::endl;
-    std::cout << "cornerA = " << ptr2[index].getcornerA() << std::endl;
-    std::cout << "cornerB = " << ptr2[index].getgornerB() << std::endl;
-    std::cout << "cornerC = " << ptr2[index].getcornerC() << std::endl;
-    delete ptr2;
+    for(int i = 0; i < 10; i++){
+        delete ptr2[i];
+    }
 
 
     return 0;
