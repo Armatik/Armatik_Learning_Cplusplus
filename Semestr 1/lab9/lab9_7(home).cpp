@@ -12,7 +12,7 @@
 //
 //
 //
-//char* rangen(unsigned &size);
+//char* rangen(unsigned &vecSize);
 //
 //
 //int main(){
@@ -41,10 +41,10 @@
 //}
 //
 //
-//char* rangen(unsigned &size) {
-//    auto array = new char[size];
+//char* rangen(unsigned &vecSize) {
+//    auto array = new char[vecSize];
 //
-//    for (unsigned i = 0; i < size; i++)
+//    for (unsigned i = 0; i < vecSize; i++)
 //        array[i] = (char)dataForGen(gen);
 //
 //    return array;

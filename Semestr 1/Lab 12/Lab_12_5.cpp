@@ -192,19 +192,19 @@
 //char* String::operator+(const char *elem) noexcept {
 //    delete[] array;
 //
-//    unsigned size = 0;
+//    unsigned vecSize = 0;
 //
-//    while (elem[size] != '\0')
-//        size++;
+//    while (elem[vecSize] != '\0')
+//        vecSize++;
 //
-//    size++;
+//    vecSize++;
 //
-//    array = new char[strSize + size];
+//    array = new char[strSize + vecSize];
 //
-//    for (unsigned i = 0; i < strSize + size; i++)
+//    for (unsigned i = 0; i < strSize + vecSize; i++)
 //        array[i] = str[i];
 //
-//    for (unsigned i = strSize - 1, counter = 0; i < strSize + size; i++, counter++)
+//    for (unsigned i = strSize - 1, counter = 0; i < strSize + vecSize; i++, counter++)
 //        array[i] = elem[counter];
 //
 //    return array;
@@ -255,25 +255,25 @@
 //
 //    delete[] str;
 //
-//    unsigned size = 0;
+//    unsigned vecSize = 0;
 //
-//    while (elem[size] != '\0')
-//        size++;
+//    while (elem[vecSize] != '\0')
+//        vecSize++;
 //
-//    size++;
+//    vecSize++;
 //
-//    strSize += size;
+//    strSize += vecSize;
 //
 //    str = new char[strSize];
 //
-//    for (unsigned i = 0; i < strSize - size; i++)
+//    for (unsigned i = 0; i < strSize - vecSize; i++)
 //        str[i] = copyArray[i];
 //
 //    if (strSize % 2)
-//        for (unsigned i = strSize - size, counter = 0; counter < size; i++, counter++)
+//        for (unsigned i = strSize - vecSize, counter = 0; counter < vecSize; i++, counter++)
 //            str[i] = elem[counter];
 //    else
-//        for (unsigned i = strSize - size - 1, counter = 0; counter < size; i++, counter++)
+//        for (unsigned i = strSize - vecSize - 1, counter = 0; counter < vecSize; i++, counter++)
 //            str[i] = elem[counter];
 //
 //    delete[] copyArray;

@@ -5,7 +5,7 @@
 //class Vector {
 //private:
 //    int *array;
-//    unsigned size = 0;
+//    unsigned vecSize = 0;
 //public:
 //    Vector() noexcept;
 //
@@ -53,7 +53,7 @@
 //
 //
 //int Vector::at(const unsigned &elem) const {
-//    if (elem > size)
+//    if (elem > vecSize)
 //        throw std::range_error("Error! Element of vector more than length of vector");
 //
 //    return array[elem];
@@ -61,44 +61,44 @@
 //
 //
 //void Vector::push_back(const int &elem) noexcept {
-//    auto copyArray = new int[size];
+//    auto copyArray = new int[vecSize];
 //
-//    for (unsigned i = 0; i < size; i++)
+//    for (unsigned i = 0; i < vecSize; i++)
 //        copyArray[i] = array[i];
 //
 //    delete[] array;
 //
-//    size++;
+//    vecSize++;
 //
-//    array = new int[size];
+//    array = new int[vecSize];
 //
-//    for (unsigned i = 0; i < size - 1; i++)
+//    for (unsigned i = 0; i < vecSize - 1; i++)
 //        array[i] = copyArray[i];
 //
-//    array[size - 1] = elem;
+//    array[vecSize - 1] = elem;
 //
 //    delete[] copyArray;
 //}
 //
 //
 //void Vector::pop(const int &elem) {
-//    if (elem > size)
+//    if (elem > vecSize)
 //        throw std::range_error("Error! Element of vector more than length of vector");
 //
-//    auto copyArray = new int[size];
+//    auto copyArray = new int[vecSize];
 //
-//    for (unsigned i = 0; i < size; i++)
+//    for (unsigned i = 0; i < vecSize; i++)
 //        copyArray[i] = array[i];
 //
 //    delete[] array;
 //
-//    size--;
+//    vecSize--;
 //
-//    array = new int[size];
+//    array = new int[vecSize];
 //
 //    bool flag = false;
 //
-//    for (unsigned i = 0; i < size + 1; i++)
+//    for (unsigned i = 0; i < vecSize + 1; i++)
 //        if (i != elem && !flag)
 //            array[i] = copyArray[i];
 //        else if (i != elem && flag)
@@ -110,4 +110,4 @@
 //}
 //
 //
-//unsigned Vector::get_size() const noexcept { return size; }
+//unsigned Vector::get_size() const noexcept { return vecSize; }

@@ -7,7 +7,7 @@ class Car : public Vehicle
 {
     virtual void Move();
     virtual void Weight();
-}:
+};
 class Bus : public Vehicle
 {
     virtual void Move();
