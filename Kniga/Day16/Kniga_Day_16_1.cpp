@@ -1,11 +1,12 @@
-#include <iostream.h>
-2: int main()
-3: {
-4:    int x;
-5:    cout << "Enter а nurober; ";
-6:    cin >> x;
-7:    cout << "You entered: " << x << endl;
-8:    cerr << "Uh oh, this to cerr!" << endl;
-9:    clog << "Ouh oh, this to clog!" << endl;
-10:   return 0;
-11: }
+#include <iostream>
+using namespace std;
+int main()
+{
+int x;
+cout << "Enter а nurober; ";
+cin >> x;
+cout << "You entered: " << x << endl;
+cerr << "Uh oh, this to cerr!" << endl;
+clog << "Ouh oh, this to clog!" << endl;
+return 0;
+}
