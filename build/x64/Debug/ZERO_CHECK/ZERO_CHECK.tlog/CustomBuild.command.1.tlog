@@ -1,0 +1,10 @@
+^C:\USER FILES\WORK FILES\PROJECT\PROGRAMMING LEARNING\ARMATIK LEARNING C++\BUILD\CMAKEFILES\FBCC4C79659A094AE1D7EC70E7374E85\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/User Files/Work Files/Project/Programming Learning/Armatik Learning C++" "-BC:/User Files/Work Files/Project/Programming Learning/Armatik Learning C++/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/User Files/Work Files/Project/Programming Learning/Armatik Learning C++/build/Armatik_Learning_C__.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

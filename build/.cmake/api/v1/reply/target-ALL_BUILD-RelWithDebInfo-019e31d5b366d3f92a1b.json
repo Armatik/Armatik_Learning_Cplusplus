@@ -1,0 +1,135 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "Lab_12_4::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Lab_12_5::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "lab12_6::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Lab12_1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_11_1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_11_2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_11_3::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_11_4::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Lab12_3::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_12_3::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Lab12_2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Armatik_Learning_C__::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_11_5::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_11_6::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Lab15_1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_12_1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_12_2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "4_3::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "4.2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_13_4::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "4_2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "4_3Danya::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "4_1Danya::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Day17::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "4.1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_13_1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_12_5::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "5_1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Lab16_2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Kniga_Day_14_1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "5_7::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "5_8::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "4_4::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Lab16_3::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

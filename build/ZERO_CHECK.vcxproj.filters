@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\build\CMakeFiles\fbcc4c79659a094ae1d7ec70e7374e85\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5EE3DB9D-E0F8-34DA-A7C4-95F3D9BF9349}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

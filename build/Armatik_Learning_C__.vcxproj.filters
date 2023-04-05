@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab2\10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab2\11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab2\12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab2\13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab2\14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab2\15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab2\16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Day3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab3\2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab3\1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab3\3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Day4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab3\dz3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab4\1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab4\2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab4\3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab4\4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab4\5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Day5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab5\13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Day6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab6\1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab6\2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab6\3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab6\4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Day7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\Kniga_Day_5_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\Kniga_Day_5_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\Kniga_Day_5_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\Kniga_Day_5_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab7\Kniga_Day_5_7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab8\Kniga_Day_9_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab8\Kniga_Day_9_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab8\Kniga_Day_9_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab8\Kniga_Day_9_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab8\Kniga_Day_9_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab8\Kniga_Day_9_8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\lab9\lab9_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\lab9\lab9_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\lab9\lab9_5(home).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\lab9\lab9_6(home).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\lab9\lab9_7(home).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab10\Ex1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab10\Ex2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab10\Ex4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab10\Ex5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab10\Dz1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab10\Dz2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab10\Dz3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\lab9\bugs8and9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day10\Kniga_Day_10_10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab11\Lab11_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab11\Lab11_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab11\lab11_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab11\Lab11_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab11\Lab11_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab11\Lab11_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab 12\Lab12_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab 13\Lab13_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab 13\Lab13_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab 13\Lab13_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab 13\Lab13_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab 13\Lab13_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 1\Lab 13\Lab13_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Day14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Day14_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\ClassWork\Exm1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 2\Lab 2\Lab16_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day13\Kniga_Day_13_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day13\Kniga_Day_13_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day13\Kniga_Day_13_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga\Day13\Kniga_Day_13_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 2\Lab 2\Lab16_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Semestr 2\Lab 2\Lab16_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F04AE7A1-C30C-3AB2-9391-C0AA8C0E631D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

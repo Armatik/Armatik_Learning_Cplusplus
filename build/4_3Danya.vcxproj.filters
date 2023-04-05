@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\Kniga_kak_stat_program\4_3Danya.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\User Files\Work Files\Project\Programming Learning\Armatik Learning C++\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F04AE7A1-C30C-3AB2-9391-C0AA8C0E631D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
