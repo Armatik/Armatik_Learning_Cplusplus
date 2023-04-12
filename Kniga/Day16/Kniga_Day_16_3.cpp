@@ -8,11 +8,11 @@ while ( cin.get(ch) ); { // получить символ
     switch (ch) { // проверить символ
         case '!':
             cout << '$';
-        break;
-        case '#':
-        break;
-        default:
-        cout << ch;
+        break; // заменить ! на $
+        case '#': // если символ #
+        break; // пропустить символ
+        default: // если не ! или #
+        cout << ch; // вывести символ
         break;
         }
     }

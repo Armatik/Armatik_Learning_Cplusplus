@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; // пространство имен std
 int main()
 {
 char name[80]; // массив для хранения строки
