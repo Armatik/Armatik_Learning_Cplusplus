@@ -23,3 +23,21 @@ int main() {
     }
     std::cout << "\n";
 }
+
+/*
+alpha
+beta
+gamma
+
+a
+ */
+
+/*
+alpha
+beta
+gamma
+delta
+epsilon
+
+---
+ */
