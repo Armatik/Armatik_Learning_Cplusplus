@@ -43,6 +43,7 @@ int main() {
     return 0;
 }
 
+
 /*
 +left 1
 +right 2

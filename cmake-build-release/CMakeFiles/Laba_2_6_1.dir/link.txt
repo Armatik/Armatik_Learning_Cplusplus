@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/Laba_2_6_1.dir/Semestr_2/Lab_6/Laba_2_6_1.cpp.o -o Laba_2_6_1 

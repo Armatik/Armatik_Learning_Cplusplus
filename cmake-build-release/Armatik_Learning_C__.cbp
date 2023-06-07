@@ -1,0 +1,2802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Armatik_Learning_C__"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Armatik_Learning_C__">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Armatik_Learning_C__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Armatik_Learning_C__"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Armatik_Learning_C__/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Armatik_Learning_C__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Armatik_Learning_C__/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab12_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab12_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab12_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab12_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab12_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab12_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab12_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab12_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab12_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab12_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab12_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab12_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab12_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab12_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab12_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab12_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab12_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab12_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_12_4">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab_12_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab_12_4"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_12_4/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab_12_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab_12_4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_12_5">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab_12_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab_12_5"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_12_5/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab_12_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab_12_5/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12_6">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/lab12_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 lab12_6"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12_6/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/lab12_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 lab12_6/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_4">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_4"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_4/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_5">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_5"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_5/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_5/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_6">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_6"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_11_6/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_11_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_11_6/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab15_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab15_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab15_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab15_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab15_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab15_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_13_4">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_13_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_13_4"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_13_4/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_13_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_13_4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_5">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_5"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_12_5/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_12_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_12_5/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_13_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_13_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_13_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_13_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_13_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_13_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day17">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Day17" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Day17"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day17/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Day17" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Day17/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4.1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4.1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4.1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4.1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4.2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4.2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4.2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4.2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_1Danya">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_1Danya" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_1Danya"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_1Danya/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_1Danya" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_1Danya/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_3Danya">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_3Danya" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_3Danya"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_3Danya/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_3Danya" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_3Danya/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab16_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab16_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab16_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab16_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab16_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab16_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab16_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab16_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab16_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab16_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Lab16_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Lab16_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_4">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_4"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_4/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/4_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 4_4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/5_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 5_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/5_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 5_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_7">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/5_7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 5_7"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_7/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/5_7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 5_7/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_14_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_14_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_14_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_14_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_14_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_14_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_8">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/5_8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 5_8"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_8/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/5_8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 5_8/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_14_4">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_14_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_14_4"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_14_4/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_14_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_14_4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_14_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_14_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_14_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_14_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_14_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_14_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_15_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_15_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_15_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_15_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_15_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_15_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_15_6">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_15_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_15_6"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_15_6/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_15_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_15_6/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab_2_3_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/lab_2_3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 lab_2_3_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab_2_3_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/lab_2_3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 lab_2_3_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab_2_3_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/lab_2_3_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 lab_2_3_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab_2_3_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/lab_2_3_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 lab_2_3_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_4">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_4"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_4/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_5">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_5"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_16_5/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_16_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_16_5/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_4_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_4_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_4_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_4_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_4_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_4_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day21_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Day21_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Day21_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day21_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Day21_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Day21_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_5_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_5_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_5_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_5_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_5_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_5_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_19_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_19_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_19_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_19_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_19_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_19_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_20_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_20_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_20_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_20_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_20_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_20_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_20_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_20_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_20_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kniga_Day_20_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Kniga_Day_20_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Kniga_Day_20_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_1">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_1"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_1/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_2">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_2"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_2/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_3">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_3"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_3/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_4">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_4"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Laba_2_6_4/fast">
+				<Option output="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Laba_2_6_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/x86_64-alt-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-alt-linux/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 Laba_2_6_4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day14.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day14_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day17.cpp">
+			<Option target="Day17"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day21_1.cpp">
+			<Option target="Day21_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day6.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Day7.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/ClassWork/Exm1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day 19/Kniga_Day_19_1.cpp">
+			<Option target="Kniga_Day_19_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day 20/Kniga_Day_20_2.cpp">
+			<Option target="Kniga_Day_20_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day 20/Kniga_Day_20_3.cpp">
+			<Option target="Kniga_Day_20_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_10.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_6.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_7.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_8.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day10/Kniga_Day_10_9.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day11/Kniga_Day_11_1.cpp">
+			<Option target="Kniga_Day_11_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day11/Kniga_Day_11_2.cpp">
+			<Option target="Kniga_Day_11_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day11/Kniga_Day_11_3.cpp">
+			<Option target="Kniga_Day_11_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day11/Kniga_Day_11_4.cpp">
+			<Option target="Kniga_Day_11_4"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day11/Kniga_Day_11_5.cpp">
+			<Option target="Kniga_Day_11_5"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day11/Kniga_Day_11_6.cpp">
+			<Option target="Kniga_Day_11_6"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day12/Kniga_Day_12_1.cpp">
+			<Option target="Kniga_Day_12_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day12/Kniga_Day_12_2.cpp">
+			<Option target="Kniga_Day_12_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day12/Kniga_Day_12_3.cpp">
+			<Option target="Kniga_Day_12_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day12/Kniga_Day_12_4.cpp">
+			<Option target="Kniga_Day_13_4"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day12/Kniga_Day_12_5.cpp">
+			<Option target="Kniga_Day_12_5"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day13/Kniga_Day_13_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+			<Option target="Kniga_Day_13_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day13/Kniga_Day_13_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day13/Kniga_Day_13_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day13/Kniga_Day_13_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day14/Kniga_Day_14_1.cpp">
+			<Option target="Kniga_Day_14_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day14/Kniga_Day_14_2.cpp">
+			<Option target="Kniga_Day_14_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day14/Kniga_Day_14_4.cpp">
+			<Option target="Kniga_Day_14_4"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day15/Kniga_Day_15_1.cpp">
+			<Option target="Kniga_Day_15_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day15/Kniga_Day_15_6.cpp">
+			<Option target="Kniga_Day_15_6"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day16/Kniga_Day_16_1.cpp">
+			<Option target="Kniga_Day_16_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day16/Kniga_Day_16_2.cpp">
+			<Option target="Kniga_Day_16_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day16/Kniga_Day_16_3.cpp">
+			<Option target="Kniga_Day_16_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day16/Kniga_Day_16_4.cpp">
+			<Option target="Kniga_Day_16_4"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga/Day16/Kniga_Day_16_5.cpp">
+			<Option target="Kniga_Day_16_5"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/4.1.cpp">
+			<Option target="4.1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/4.2.cpp">
+			<Option target="4.2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/4_1Danya.cpp">
+			<Option target="4_1Danya"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/4_2Danya.cpp">
+			<Option target="4_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/4_3.cpp">
+			<Option target="4_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/4_3Danya.cpp">
+			<Option target="4_3Danya"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/4_4.cpp">
+			<Option target="4.1"/>
+			<Option target="4_4"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/5_1.cpp">
+			<Option target="5_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Kniga_kak_stat_program/5_8.cpp">
+			<Option target="5_7"/>
+			<Option target="5_8"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 12/Lab12_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+			<Option target="Lab12_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 12/Lab12_2.cpp">
+			<Option target="Lab12_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 12/Lab12_3.cpp">
+			<Option target="Lab12_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 12/Lab_12_4.cpp">
+			<Option target="Lab_12_4"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 12/Lab_12_5.cpp">
+			<Option target="Lab_12_5"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 12/Lab_12_6.cpp">
+			<Option target="lab12_6"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 13/Lab13_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 13/Lab13_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 13/Lab13_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 13/Lab13_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 13/Lab13_5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab 13/Lab13_6.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab10/Dz1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab10/Dz2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab10/Dz3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab10/Ex1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab10/Ex2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab10/Ex4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab10/Ex5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab11/Lab11_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab11/Lab11_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab11/Lab11_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab11/Lab11_5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab11/Lab11_6.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab11/lab11_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab2/10.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab2/11.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab2/12.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab2/13.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab2/14.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab2/15.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab2/16.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab3/1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab3/2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab3/3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab3/dz3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab4/1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab4/2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab4/3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab4/4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab4/5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/10.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/11.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/12.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/13.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/6.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/7.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/8.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab5/9.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab6/1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab6/2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab6/3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab6/4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/Kniga_Day_5_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/Kniga_Day_5_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/Kniga_Day_5_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/Kniga_Day_5_5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab7/Kniga_Day_5_7.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab8/Kniga_Day_9_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab8/Kniga_Day_9_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab8/Kniga_Day_9_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab8/Kniga_Day_9_5.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab8/Kniga_Day_9_6.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/Lab8/Kniga_Day_9_8.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/lab9/bugs8and9.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/lab9/lab9_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/lab9/lab9_4.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/lab9/lab9_5(home).cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/lab9/lab9_6(home).cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 1/lab9/lab9_7(home).cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 1/Lab15_1.cpp">
+			<Option target="Lab15_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 2/Lab16_1.cpp">
+			<Option target="Armatik_Learning_C__"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 2/Lab16_2.cpp">
+			<Option target="Armatik_Learning_C__"/>
+			<Option target="Lab16_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 2/Lab16_3.cpp">
+			<Option target="Armatik_Learning_C__"/>
+			<Option target="Lab16_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 3/lab_2_3_1.cpp">
+			<Option target="lab_2_3_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 3/lab_2_3_2.cpp">
+			<Option target="lab_2_3_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 4/Laba_2_4_1.cpp">
+			<Option target="Laba_2_4_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 5/Laba_2_5_1.cpp">
+			<Option target="Laba_2_5_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 6/Laba_2_6_1.cpp">
+			<Option target="Laba_2_6_1"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 6/Laba_2_6_2.cpp">
+			<Option target="Laba_2_6_2"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 6/Laba_2_6_3.cpp">
+			<Option target="Laba_2_6_3"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/Semestr 2/Lab 6/Laba_2_6_4.cpp">
+			<Option target="Laba_2_6_4"/>
+		</Unit>
+		<Unit filename="/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

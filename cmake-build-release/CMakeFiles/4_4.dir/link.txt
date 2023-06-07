@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/4_4.dir/Kniga_kak_stat_program/4_4.cpp.o -o 4_4 

@@ -1,0 +1,546 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Armatik_Learning_C__",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.1-Release-6f870eaec18d016be8a0.json",
+					"name" : "4.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.2-Release-cc597b3cea8ebb5f10c8.json",
+					"name" : "4.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4_1Danya::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_1Danya-Release-9b807bce95f0df04c465.json",
+					"name" : "4_1Danya",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_2-Release-22de2c61111cc774e917.json",
+					"name" : "4_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_3-Release-1769181a2b6b4451dc09.json",
+					"name" : "4_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4_3Danya::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_3Danya-Release-a40e31b3aad67af41442.json",
+					"name" : "4_3Danya",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_4-Release-a82d14a3a8e1b337febe.json",
+					"name" : "4_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_1-Release-1a369935e7a98750c640.json",
+					"name" : "5_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_7-Release-6dcccc608490439c66f1.json",
+					"name" : "5_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_8-Release-2bd135917d0ea9dacd1e.json",
+					"name" : "5_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Armatik_Learning_C__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Armatik_Learning_C__-Release-65272f77a6acec89c4bc.json",
+					"name" : "Armatik_Learning_C__",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day17-Release-d0fa2da7df6002b8661b.json",
+					"name" : "Day17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day21_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day21_1-Release-6c1e589b3f06096a6f4f.json",
+					"name" : "Day21_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_11_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_11_1-Release-8944d769a9cf9abd4df0.json",
+					"name" : "Kniga_Day_11_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_11_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_11_2-Release-42645cd4334078b41a1a.json",
+					"name" : "Kniga_Day_11_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_11_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_11_3-Release-d80e8d797f90f64dfb3e.json",
+					"name" : "Kniga_Day_11_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_11_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_11_4-Release-690b3947a145e9c908fb.json",
+					"name" : "Kniga_Day_11_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_11_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_11_5-Release-4934f307b6386c0f3d49.json",
+					"name" : "Kniga_Day_11_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_11_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_11_6-Release-c933d48799085407fde0.json",
+					"name" : "Kniga_Day_11_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_12_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_12_1-Release-eacc26f6e121622b5079.json",
+					"name" : "Kniga_Day_12_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_12_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_12_2-Release-1ece80e5bab0ef899433.json",
+					"name" : "Kniga_Day_12_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_12_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_12_3-Release-9fd84ee2f3bbe617d93d.json",
+					"name" : "Kniga_Day_12_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_12_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_12_5-Release-25033e479f2018c875ff.json",
+					"name" : "Kniga_Day_12_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_13_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_13_1-Release-16d315f0b492c5f8aac3.json",
+					"name" : "Kniga_Day_13_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_13_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_13_4-Release-a749080463cc4c83d307.json",
+					"name" : "Kniga_Day_13_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_14_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_14_1-Release-7c30f3dc39370af2a3e9.json",
+					"name" : "Kniga_Day_14_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_14_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_14_2-Release-257d650731214839c44e.json",
+					"name" : "Kniga_Day_14_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_14_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_14_4-Release-0ddcf6ccf997a081b3b8.json",
+					"name" : "Kniga_Day_14_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_15_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_15_1-Release-fc675fcde302fb7b8b48.json",
+					"name" : "Kniga_Day_15_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_15_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_15_6-Release-b31a5186515e4d3a6b93.json",
+					"name" : "Kniga_Day_15_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_16_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_16_1-Release-92ae0a8cc5e49144eba9.json",
+					"name" : "Kniga_Day_16_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_16_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_16_2-Release-19818eba1eda9b907b81.json",
+					"name" : "Kniga_Day_16_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_16_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_16_3-Release-d3385b85bd4db805699f.json",
+					"name" : "Kniga_Day_16_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_16_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_16_4-Release-68530349c3ffac66354f.json",
+					"name" : "Kniga_Day_16_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_16_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_16_5-Release-a0f678e858aa0c9289dd.json",
+					"name" : "Kniga_Day_16_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_19_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_19_1-Release-ea7d902f50b04e629147.json",
+					"name" : "Kniga_Day_19_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_20_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_20_2-Release-17075569bd13461e4a77.json",
+					"name" : "Kniga_Day_20_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kniga_Day_20_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kniga_Day_20_3-Release-bcf37fb3fafff8f3a8f1.json",
+					"name" : "Kniga_Day_20_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab12_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab12_1-Release-8a0a7074d52a33b42e2d.json",
+					"name" : "Lab12_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab12_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab12_2-Release-4ac980f17841d776af6b.json",
+					"name" : "Lab12_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab12_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab12_3-Release-549ec5a2a0d173fbc133.json",
+					"name" : "Lab12_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab15_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab15_1-Release-1c65726d20312a612b55.json",
+					"name" : "Lab15_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab16_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab16_2-Release-1c0b01ce07297fa2d62b.json",
+					"name" : "Lab16_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab16_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab16_3-Release-09e607949c9b19d84277.json",
+					"name" : "Lab16_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_12_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_12_4-Release-8dc95d80132cf858833c.json",
+					"name" : "Lab_12_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_12_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_12_5-Release-238f93af139a4acfe1e2.json",
+					"name" : "Lab_12_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_2_4_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_2_4_1-Release-5d7cce5850184f151e48.json",
+					"name" : "Laba_2_4_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_2_5_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_2_5_1-Release-c4f55fd69e914086a2fa.json",
+					"name" : "Laba_2_5_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_2_6_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_2_6_1-Release-f36b86ebc586eb3e5039.json",
+					"name" : "Laba_2_6_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_2_6_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_2_6_2-Release-7cac4a5a9dcfd5a99e3e.json",
+					"name" : "Laba_2_6_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_2_6_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_2_6_3-Release-0c8e4af39e0658cc1e6f.json",
+					"name" : "Laba_2_6_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_2_6_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_2_6_4-Release-8b83234a82cff299b45f.json",
+					"name" : "Laba_2_6_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab12_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab12_6-Release-8fa33cb83d62c979be0a.json",
+					"name" : "lab12_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_2_3_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_2_3_1-Release-cec11d29e11a492d9bfe.json",
+					"name" : "lab_2_3_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_2_3_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_2_3_2-Release-2db976d666ff489dc5ef.json",
+					"name" : "lab_2_3_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/armatik/CLionProjects/Armatik_Learning_Cplusplus/cmake-build-release",
+		"source" : "/home/armatik/CLionProjects/Armatik_Learning_Cplusplus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

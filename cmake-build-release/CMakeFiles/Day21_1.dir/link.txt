@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/Day21_1.dir/ClassWork/Day21_1.cpp.o -o Day21_1 

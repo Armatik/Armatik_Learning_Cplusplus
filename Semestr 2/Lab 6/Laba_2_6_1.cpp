@@ -29,11 +29,12 @@ int main() {
             v.begin() + std::min(v.size(), k),  // k может оказаться больше размера вектора
             v.end(),
             [](const auto& p1, const auto& p2) { return std::tie(p2.second, p1.first) < std::tie(p1.second, p2.first); }
+            // Сортируем по убыванию частоты, а при равных частотах по возрастанию слова
     );
 
     // Печатаем топовые слова
-    for (size_t i = 0; i < k && i < v.size(); ++i) {
-        const auto& [word, freq] = v[i];
-        std::cout << word << "\t" << freq << "\n";
+    for (size_t i = 0; i < k && i < v.size(); ++i) { // k может оказаться больше размера вектора
+        const auto& [word, freq] = v[i]; // Деструктурирующее присваивание
+        std::cout << word << "\t" << freq << "\n"; // Печатаем слово и его частоту
     }
 }

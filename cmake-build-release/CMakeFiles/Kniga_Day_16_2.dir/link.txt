@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/Kniga_Day_16_2.dir/Kniga/Day16/Kniga_Day_16_2.cpp.o -o Kniga_Day_16_2 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/Lab15_1.dir/Semestr_2/Lab_1/Lab15_1.cpp.o -o Lab15_1 

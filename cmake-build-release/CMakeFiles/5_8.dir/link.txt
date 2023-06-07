@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/5_8.dir/Kniga_kak_stat_program/5_8.cpp.o -o 5_8 
